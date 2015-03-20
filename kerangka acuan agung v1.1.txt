@@ -1,0 +1,30 @@
+pendahuluan
+• pemanfaatan komputer dalam penelitian
+• mahalnya infrastruktur komputer secara fisik dan pemanfaatan teknologi cloud (kendala bagi
+para peneliti ? mahal , perlu memahami secara detail teknologinya juga)
+• salah satu platform yang dijalankan pada cloud : docker (penjelasan sedikit mungkin)
+perumusan masalah :
+• apakah performa Docker setara atau lebih baik dibandingkan grid computing ?
+• dari hasil tersebut apakah docker dapat digunakan oleh para peneliti ?
+tujuan penelitian :
+• mengetahui performa dan limitasi docker
+ruang lingkup penelitian :
+• penelitian hanya mencoba untuk membandingkan hasil yang telah disediakan Pak Hilman
+dengan hasil yang dikeluarkan oleh docker
+sistematika penulisan :
+• penjelasan penulisan secara singkat
+Landasan teori
+• menjelaskan apa itu cloud computing
+• sekilas penelitian terkait yang digunakan untuk mengukur kemampuan docker (drug discovery,
+virtual screening)
+• pengenalan docker sebagai platform yang dijalankan pada cloud
+• alasan bahwa cloud computing dapat digunakan
+metodologi penelitian
+• menjalankan autodock dan autodock vina pada docker
+• hasil yang dikeluarkan dibandingkan dengan hasil tesis Pak Hilman
+• mungkin dari segi memori yang dibutuhkan docker waktu komputasi, dsb
+hasil dan pembahasan
+• menunggu percobaan dulu :D
+kesimpulan
+• menunggu hasil dan pembahasan dulu :D
+• saran penelitian selanjutnya
