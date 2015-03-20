@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.3.8)  17 MAR 2015 15:40
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.3.8)  20 MAR 2015 21:58
 entering extended mode
 **thesis.tex
-(C:\Users\agungputra\Documents\Skripsi\uistyle\thesis.tex
+(C:\Users\agungputra\Documents\Skripshit\thesis.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -31,7 +31,7 @@ File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(C:\Users\agungputra\Documents\Skripsi\uistyle\uithesis.sty
+(C:\Users\agungputra\Documents\Skripshit\uithesis.sty
 ("C:\Program Files\MiKTeX 2.9\tex\latex\tocbibind\tocbibind.sty"
 Package: tocbibind 2010/10/13 v1.5k extra ToC listings
 Package tocbibind Info: The document has chapter divisions on input line 50.
@@ -376,7 +376,7 @@ File: pppdftex.def 2013/08/25 v0.4v Pdfpages driver for pdfTeX (AM)
 \c@AM@survey=\count118
 \AM@templatesizebox=\box29
 )
-(C:\Users\agungputra\Documents\Skripsi\uistyle\fncychap.sty
+(C:\Users\agungputra\Documents\Skripshit\fncychap.sty
 Package: fncychap 2007/07/30 v1.34 LaTeX package (Revised chapters)
 \RW=\skip59
 \mylen=\skip60
@@ -408,30 +408,30 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks25
 \@floatcapt=\box31
 ))
-(C:\Users\agungputra\Documents\Skripsi\uistyle\laporan_setting.tex)
+(C:\Users\agungputra\Documents\Skripshit\laporan_setting.tex)
 \@input{hype.indonesia.aux}
-(C:\Users\agungputra\Documents\Skripsi\uistyle\hype.indonesia.tex)
-(C:\Users\agungputra\Documents\Skripsi\uistyle\istilah.tex)
-(C:\Users\agungputra\Documents\Skripsi\uistyle\thesis.aux
-(C:\Users\agungputra\Documents\Skripsi\uistyle\sampul.aux)
-(C:\Users\agungputra\Documents\Skripsi\uistyle\judul_dalam.aux)
-(C:\Users\agungputra\Documents\Skripsi\uistyle\pengesahan.aux)
-(C:\Users\agungputra\Documents\Skripsi\uistyle\orisinal.aux)
-(C:\Users\agungputra\Documents\Skripsi\uistyle\pengesahan_sidang.aux)
-(C:\Users\agungputra\Documents\Skripsi\uistyle\pengantar.aux)
-(C:\Users\agungputra\Documents\Skripsi\uistyle\persetujuan_publikasi.aux)
-(C:\Users\agungputra\Documents\Skripsi\uistyle\abstrak.aux)
-(C:\Users\agungputra\Documents\Skripsi\uistyle\abstract.aux)
-(C:\Users\agungputra\Documents\Skripsi\uistyle\bab1.aux)
-(C:\Users\agungputra\Documents\Skripsi\uistyle\bab2.aux)
-(C:\Users\agungputra\Documents\Skripsi\uistyle\bab3.aux)
-(C:\Users\agungputra\Documents\Skripsi\uistyle\bab4.aux)
-(C:\Users\agungputra\Documents\Skripsi\uistyle\bab5.aux)
-(C:\Users\agungputra\Documents\Skripsi\uistyle\bab6.aux)
-(C:\Users\agungputra\Documents\Skripsi\uistyle\kesimpulan.aux)
-(C:\Users\agungputra\Documents\Skripsi\uistyle\pustaka.aux)
-(C:\Users\agungputra\Documents\Skripsi\uistyle\markLampiran.aux)
-(C:\Users\agungputra\Documents\Skripsi\uistyle\lampiran.aux))
+(C:\Users\agungputra\Documents\Skripshit\hype.indonesia.tex)
+(C:\Users\agungputra\Documents\Skripshit\istilah.tex)
+(C:\Users\agungputra\Documents\Skripshit\thesis.aux
+(C:\Users\agungputra\Documents\Skripshit\sampul.aux)
+(C:\Users\agungputra\Documents\Skripshit\judul_dalam.aux)
+(C:\Users\agungputra\Documents\Skripshit\pengesahan.aux)
+(C:\Users\agungputra\Documents\Skripshit\orisinal.aux)
+(C:\Users\agungputra\Documents\Skripshit\pengesahan_sidang.aux)
+(C:\Users\agungputra\Documents\Skripshit\pengantar.aux)
+(C:\Users\agungputra\Documents\Skripshit\persetujuan_publikasi.aux)
+(C:\Users\agungputra\Documents\Skripshit\abstrak.aux)
+(C:\Users\agungputra\Documents\Skripshit\abstract.aux)
+(C:\Users\agungputra\Documents\Skripshit\bab1.aux)
+(C:\Users\agungputra\Documents\Skripshit\bab2.aux)
+(C:\Users\agungputra\Documents\Skripshit\bab3.aux)
+(C:\Users\agungputra\Documents\Skripshit\bab4.aux)
+(C:\Users\agungputra\Documents\Skripshit\bab5.aux)
+(C:\Users\agungputra\Documents\Skripshit\bab6.aux)
+(C:\Users\agungputra\Documents\Skripshit\kesimpulan.aux)
+(C:\Users\agungputra\Documents\Skripshit\pustaka.aux)
+(C:\Users\agungputra\Documents\Skripshit\markLampiran.aux)
+(C:\Users\agungputra\Documents\Skripshit\lampiran.aux))
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
 LaTeX Font Info:    ... okay on input line 30.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
@@ -467,8 +467,8 @@ LaTeX Info: Redefining \ref on input line 30.
 LaTeX Info: Redefining \pageref on input line 30.
 LaTeX Info: Redefining \nameref on input line 30.
 
-(C:\Users\agungputra\Documents\Skripsi\uistyle\thesis.out)
-(C:\Users\agungputra\Documents\Skripsi\uistyle\thesis.out)
+(C:\Users\agungputra\Documents\Skripshit\thesis.out)
+(C:\Users\agungputra\Documents\Skripshit\thesis.out)
 \@outlinefile=\write3
 
 ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
@@ -522,7 +522,7 @@ LaTeX Info: Redefining \nameref on input line 30.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: End \AtBeginDocument code.
-(C:\Users\agungputra\Documents\Skripsi\uistyle\sampul.tex
+(C:\Users\agungputra\Documents\Skripshit\sampul.tex
 <pics/makara.png, id=187, 154.86429pt x 154.34807pt>
 File: pics/makara.png Graphic file (type png)
  <use pics/makara.png>
@@ -537,18 +537,17 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
 
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/agungputra/Docum
-ents/Skripsi/uistyle/pics/makara.png>])
-(C:\Users\agungputra\Documents\Skripsi\uistyle\judul_dalam.tex
+ents/Skripshit/pics/makara.png>])
+(C:\Users\agungputra\Documents\Skripshit\judul_dalam.tex
 File: pics/makara.png Graphic file (type png)
-
-<use pics/makara.png>
+ <use pics/makara.png>
 Package pdftex.def Info: pics/makara.png used on input line 12.
 (pdftex.def)             Requested size: 71.13188pt x 70.89497pt.
- [1
+
+[1
 
 
-])
-(C:\Users\agungputra\Documents\Skripsi\uistyle\pengesahan.tex
+]) (C:\Users\agungputra\Documents\Skripshit\pengesahan.tex
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 8.
 LaTeX Font Info:    Try loading font information for OT1+ptmcm on input line 14
@@ -587,12 +586,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 22--23
 
 
 
-]) (C:\Users\agungputra\Documents\Skripsi\uistyle\orisinal.tex [3
+]) (C:\Users\agungputra\Documents\Skripshit\orisinal.tex [3
 
 
 
 ])
-(C:\Users\agungputra\Documents\Skripsi\uistyle\pengesahan_sidang.tex
+(C:\Users\agungputra\Documents\Skripshit\pengesahan_sidang.tex
 Overfull \hbox (40.45895pt too wide) in paragraph at lines 13--21
 [] 
  []
@@ -637,7 +636,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 46--47
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 62.
 
-(C:\Users\agungputra\Documents\Skripsi\uistyle\pengantar.tex
+(C:\Users\agungputra\Documents\Skripshit\pengantar.tex
 <pics/creative_common.png, id=214, 759.83875pt x 645.41125pt>
 File: pics/creative_common.png Graphic file (type png)
 
@@ -650,8 +649,8 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
 
 
 
- <C:/Users/agungputra/Documents/Skripsi/uistyle/pics/creative_common.png (PNG c
-opy)>]
+ <C:/Users/agungputra/Documents/Skripshit/pics/creative_common.png (PNG copy)>]
+
 <pics/mark.png, id=230, 336.25626pt x 66.2475pt>
 File: pics/mark.png Graphic file (type png)
  <use pics/mark.png>
@@ -664,8 +663,8 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[6 <C:/Users/agungputra/Documents/Skripsi/uistyle/pics/mark.png (PNG copy)>]
-(C:\Users\agungputra\Documents\Skripsi\uistyle\persetujuan_publikasi.tex
+[6 <C:/Users/agungputra/Documents/Skripshit/pics/mark.png (PNG copy)>]
+(C:\Users\agungputra\Documents\Skripshit\persetujuan_publikasi.tex
 Underfull \hbox (badness 10000) in paragraph at lines 30--36
 
  []
@@ -674,7 +673,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--36
 
 
 
-]) (C:\Users\agungputra\Documents\Skripsi\uistyle\abstrak.tex
+]) (C:\Users\agungputra\Documents\Skripshit\abstrak.tex
 Underfull \hbox (badness 10000) in paragraph at lines 12--17
 
  []
@@ -713,7 +712,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 24--27
 
 
 
-]) (C:\Users\agungputra\Documents\Skripsi\uistyle\abstract.tex
+]) (C:\Users\agungputra\Documents\Skripshit\abstract.tex
 Underfull \hbox (badness 10000) in paragraph at lines 12--17
 
  []
@@ -742,7 +741,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 24--26
 
 
 
-]) (C:\Users\agungputra\Documents\Skripsi\uistyle\thesis.toc [10
+]) (C:\Users\agungputra\Documents\Skripshit\thesis.toc [10
 
 
 ])
@@ -754,25 +753,32 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[11] (C:\Users\agungputra\Documents\Skripsi\uistyle\thesis.lof)
+[11] (C:\Users\agungputra\Documents\Skripshit\thesis.lof)
 \tf@lof=\write5
  [12
 
 
 ]
-(C:\Users\agungputra\Documents\Skripsi\uistyle\thesis.lot)
+(C:\Users\agungputra\Documents\Skripshit\thesis.lot)
 \tf@lot=\write6
  [13
 
 
 ]
-(C:\Users\agungputra\Documents\Skripsi\uistyle\bab1.tex
+(C:\Users\agungputra\Documents\Skripshit\bab1.tex
 BAB 1.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 3.
 
-<cloud_computing.png, id=384, 2007.5pt x 1817.79124pt>
+<virtual_machine.png, id=386, 451.6875pt x 412.54124pt>
+File: virtual_machine.png Graphic file (type png)
+
+<use virtual_machine.png>
+Package pdftex.def Info: virtual_machine.png used on input line 20.
+(pdftex.def)             Requested size: 225.84319pt x 206.27011pt.
+
+<cloud_computing.png, id=387, 2007.5pt x 1817.79124pt>
 File: cloud_computing.png Graphic file (type png)
 
 <use cloud_computing.png>
@@ -782,65 +788,30 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.47 
-      [1
+l.25 S
+      alah satu bidang penelitian terkini yang menggunakan teknologi informa...
+[1
 
 
 
- <C:/Users/agungputra/Documents/Skripsi/uistyle/cloud_computing.png>]
-LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
-(Font)              Font shape `OMS/pzccm/m/n' tried instead on input line 76.
-
-Underfull \hbox (badness 10000) in paragraph at lines 76--77
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--78
-
- []
-
+]
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[2]
-Underfull \hbox (badness 10000) in paragraph at lines 78--79
+[2 <C:/Users/agungputra/Documents/Skripshit/virtual_machine.png> <C:/Users/agun
+gputra/Documents/Skripshit/cloud_computing.png>]
 
- []
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 79--80
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 80--81
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 81--82
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 82--83
-
- []
-
-
-Overfull \hbox (16.19841pt too wide) in paragraph at lines 85--86
-[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 85--86
-
- []
-
+[3]
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
+(Font)              Font shape `OMS/pzccm/m/n' tried instead on input line 73.
 )
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -848,16 +819,12 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[3] (C:\Users\agungputra\Documents\Skripsi\uistyle\bab2.tex
+[4] (C:\Users\agungputra\Documents\Skripshit\bab2.tex
 BAB 2.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 2.
 
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 2.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 2.
 
 Underfull \hbox (badness 10000) in paragraph at lines 4--5
 []
@@ -868,7 +835,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--5
 
  []
 
-[4
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 7.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 7.
+[5
 
 
 
@@ -879,7 +850,7 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[5]
+[6]
 File: pics/creative_common.png Graphic file (type png)
  <use pics/creative_common.png>
 Package pdftex.def Info: pics/creative_common.png used on input line 118.
@@ -891,14 +862,14 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[6])
+[7])
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[7] (C:\Users\agungputra\Documents\Skripsi\uistyle\bab3.tex
+[8] (C:\Users\agungputra\Documents\Skripshit\bab3.tex
 BAB 3.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
@@ -914,7 +885,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--5
 
  []
 
-[8
+[9
 
 
 
@@ -925,7 +896,7 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[9] (C:\Users\agungputra\Documents\Skripsi\uistyle\bab4.tex
+[10] (C:\Users\agungputra\Documents\Skripshit\bab4.tex
 BAB 4.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
@@ -947,7 +918,7 @@ Underfull \hbox (badness 1484) in paragraph at lines 36--41
 asa In-done-sia.
  []
 
-[10
+[11
 
 
 
@@ -958,7 +929,7 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[11] (C:\Users\agungputra\Documents\Skripsi\uistyle\bab5.tex
+[12] (C:\Users\agungputra\Documents\Skripshit\bab5.tex
 BAB 5.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
@@ -989,11 +960,11 @@ Overfull \hbox (27.94829pt too wide) in paragraph at lines 34--36
 [] 
  []
 
-[12
+[13
 
 
 
-] <include.pdf, id=470, 597.51233pt x 845.0471pt>
+] <include.pdf, id=478, 597.51233pt x 845.0471pt>
 File: include.pdf Graphic file (type pdf)
  <use include.pdf>
 Package pdftex.def Info: include.pdf used on input line 57.
@@ -1010,7 +981,7 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[13] <include.pdf, id=477, page=1, 597.51233pt x 845.0471pt>
+[14] <include.pdf, id=485, page=1, 597.51233pt x 845.0471pt>
 File: include.pdf Graphic file (type pdf)
 
 <use include.pdf, page 1>
@@ -1040,7 +1011,7 @@ File: include.pdf Graphic file (type pdf)
 <use include.pdf, page 1>
 Package pdftex.def Info: include.pdf, page1 used on input line 57.
 (pdftex.def)             Requested size: 597.53821pt x 845.08372pt.
- [14 <C:/Users/agungputra/Documents/Skripsi/uistyle/include.pdf>]
+ [15 <C:/Users/agungputra/Documents/Skripshit/include.pdf>]
 File: include.pdf Graphic file (type pdf)
  <use include.pdf>
 Package pdftex.def Info: include.pdf used on input line 64.
@@ -1056,7 +1027,7 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[15]
+[16]
 File: include.pdf Graphic file (type pdf)
  <use include.pdf, page 1>
 Package pdftex.def Info: include.pdf, page1 used on input line 64.
@@ -1079,14 +1050,14 @@ File: include.pdf Graphic file (type pdf)
 Package pdftex.def Info: include.pdf, page1 used on input line 64.
 (pdftex.def)             Requested size: 597.53821pt x 845.08372pt.
 
-[16])
+[17])
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[17] (C:\Users\agungputra\Documents\Skripsi\uistyle\bab6.tex
+[18] (C:\Users\agungputra\Documents\Skripshit\bab6.tex
 BAB 6.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
@@ -1102,11 +1073,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--5
 
  []
 
-) [18
+) [19
 
 
 
-] (C:\Users\agungputra\Documents\Skripsi\uistyle\kesimpulan.tex
+] (C:\Users\agungputra\Documents\Skripshit\kesimpulan.tex
 BAB 7.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
@@ -1122,28 +1093,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
  []
 
-) [19
+) [20
 
 
 
-] (C:\Users\agungputra\Documents\Skripsi\uistyle\pustaka.tex) [20
+] (C:\Users\agungputra\Documents\Skripshit\pustaka.tex) [21
 
 
 
 ]
-(C:\Users\agungputra\Documents\Skripsi\uistyle\markLampiran.texpdfTeX warning (
-ext4): destination with the same identifier (name{page.1}) has been already use
-d, duplicate ignored
+(C:\Users\agungputra\Documents\Skripshit\markLampiran.texpdfTeX warning (ext4):
+ destination with the same identifier (name{page.1}) has been already used, dup
+licate ignored
 <to be read again> 
                    \relax 
 l.13 \end{titlepage}
                      [1
 
 
-])
-(C:\Users\agungputra\Documents\Skripsi\uistyle\lampiran.tex)pdfTeX warning (ext
-4): destination with the same identifier (name{page.2}) has been already used, 
-duplicate ignored
+]) (C:\Users\agungputra\Documents\Skripshit\lampiran.tex)pdfTeX warning (ext4):
+ destination with the same identifier (name{page.2}) has been already used, dup
+licate ignored
 <to be read again> 
                    \relax 
 l.112 	\include{lampiran}
@@ -1155,40 +1125,40 @@ l.112 	\include{lampiran}
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 115.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 115.
 
-(C:\Users\agungputra\Documents\Skripsi\uistyle\thesis.aux
-(C:\Users\agungputra\Documents\Skripsi\uistyle\sampul.aux)
-(C:\Users\agungputra\Documents\Skripsi\uistyle\judul_dalam.aux)
-(C:\Users\agungputra\Documents\Skripsi\uistyle\pengesahan.aux)
-(C:\Users\agungputra\Documents\Skripsi\uistyle\orisinal.aux)
-(C:\Users\agungputra\Documents\Skripsi\uistyle\pengesahan_sidang.aux)
-(C:\Users\agungputra\Documents\Skripsi\uistyle\pengantar.aux)
-(C:\Users\agungputra\Documents\Skripsi\uistyle\persetujuan_publikasi.aux)
-(C:\Users\agungputra\Documents\Skripsi\uistyle\abstrak.aux)
-(C:\Users\agungputra\Documents\Skripsi\uistyle\abstract.aux)
-(C:\Users\agungputra\Documents\Skripsi\uistyle\bab1.aux)
-(C:\Users\agungputra\Documents\Skripsi\uistyle\bab2.aux)
-(C:\Users\agungputra\Documents\Skripsi\uistyle\bab3.aux)
-(C:\Users\agungputra\Documents\Skripsi\uistyle\bab4.aux)
-(C:\Users\agungputra\Documents\Skripsi\uistyle\bab5.aux)
-(C:\Users\agungputra\Documents\Skripsi\uistyle\bab6.aux)
-(C:\Users\agungputra\Documents\Skripsi\uistyle\kesimpulan.aux)
-(C:\Users\agungputra\Documents\Skripsi\uistyle\pustaka.aux)
-(C:\Users\agungputra\Documents\Skripsi\uistyle\markLampiran.aux)
-(C:\Users\agungputra\Documents\Skripsi\uistyle\lampiran.aux))
+(C:\Users\agungputra\Documents\Skripshit\thesis.aux
+(C:\Users\agungputra\Documents\Skripshit\sampul.aux)
+(C:\Users\agungputra\Documents\Skripshit\judul_dalam.aux)
+(C:\Users\agungputra\Documents\Skripshit\pengesahan.aux)
+(C:\Users\agungputra\Documents\Skripshit\orisinal.aux)
+(C:\Users\agungputra\Documents\Skripshit\pengesahan_sidang.aux)
+(C:\Users\agungputra\Documents\Skripshit\pengantar.aux)
+(C:\Users\agungputra\Documents\Skripshit\persetujuan_publikasi.aux)
+(C:\Users\agungputra\Documents\Skripshit\abstrak.aux)
+(C:\Users\agungputra\Documents\Skripshit\abstract.aux)
+(C:\Users\agungputra\Documents\Skripshit\bab1.aux)
+(C:\Users\agungputra\Documents\Skripshit\bab2.aux)
+(C:\Users\agungputra\Documents\Skripshit\bab3.aux)
+(C:\Users\agungputra\Documents\Skripshit\bab4.aux)
+(C:\Users\agungputra\Documents\Skripshit\bab5.aux)
+(C:\Users\agungputra\Documents\Skripshit\bab6.aux)
+(C:\Users\agungputra\Documents\Skripshit\kesimpulan.aux)
+(C:\Users\agungputra\Documents\Skripshit\pustaka.aux)
+(C:\Users\agungputra\Documents\Skripshit\markLampiran.aux)
+(C:\Users\agungputra\Documents\Skripshit\lampiran.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 115.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 115.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: BF5F3C60258ED006D8B3B46E9ACCEB9E;2950.
+(rerunfilecheck)             Checksum: 72B794C09F2FA103D2CE71C07705DC81;2961.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 115.
  ) 
 Here is how much of TeX's memory you used:
- 9344 strings out of 493921
- 141597 string characters out of 3147268
- 241200 words of memory out of 3000000
- 12184 multiletter control sequences out of 15000+200000
- 50358 words of font info for 99 fonts, out of 3000000 for 9000
+ 9349 strings out of 493921
+ 140866 string characters out of 3147268
+ 241218 words of memory out of 3000000
+ 12188 multiletter control sequences out of 15000+200000
+ 49251 words of font info for 98 fonts, out of 3000000 for 9000
  910 hyphenation exceptions out of 8191
- 44i,18n,45p,211b,458s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 44i,18n,45p,521b,458s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program File
 s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX
  2.9/fonts/type1/public/amsfonts/cmextra/cmex9.pfb><C:/Program Files/MiKTeX 2.9
@@ -1200,9 +1170,9 @@ gram Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX
  2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
 /urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8
 a.pfb>
-Output written on thesis.pdf (36 pages, 613478 bytes).
+Output written on thesis.pdf (37 pages, 646853 bytes).
 PDF statistics:
- 582 PDF objects out of 1000 (max. 8388607)
- 99 named destinations out of 1000 (max. 500000)
- 427 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 593 PDF objects out of 1000 (max. 8388607)
+ 100 named destinations out of 1000 (max. 500000)
+ 432 words of extra memory for PDF output out of 10000 (max. 10000000)
 
