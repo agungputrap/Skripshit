@@ -8,26 +8,24 @@ penelitian, serta sistematika penulisan tugas akhir penelitian
 %-----------------------------------------------------------------------------%
 \section{Latar Belakang}
 %-----------------------------------------------------------------------------%
-Seiring berjalannya waktu, teknologi informasi (IT) mengalami perkembangan yang
-pesat. Optimisasi perangkat keras untuk komputasi dan kemudahan mengakses merup
-akan tujuan yang ingin dicapai. Pemanfaatannya pun beragam dari media hiburan multimedia, membantu dalam
-pekerjaan sehari hari, berkomunikasi dengan orang lain, dan untuk bermain \textit{video game}.
-Teknologi informasi sudah lama digunakan dalam penelitian, khususnya eksperimen secara virtual. Eksperimen ini memanfaatkan kemampuan komputer dalam komputasi dan menyimpan data dalam skala besar. Teknologi informasi yang memenuhi kriteria tersebut adalah \textit{supercomputer}.Namun, hal ini tidak terlepas dari kendala yang ada.Kemampuan komputasi yang tinggi (\textit{supercomputer}) menyebabkan besarnya biaya yang harus dikeluarkan dalam pengadaan \textit{supercomputer}.
-Peneliti perlu meluangkan biaya diluar biaya penelitian tersebut.Selain itu, 
-peneliti juga perlu memahami hal teknis terkait dengan pengoperasian \textit{supercomputer} dan juga perawatannya. Oleh karena itu, pemanfaatan abstraksi \textit{supercomputer} dalam sebuah komputer dapat mengurangi kendala biaya yang akan dihadapi oleh peneliti. \textit{Cloud computing} juga dapat mengurangi kendala alokasi tempat \textit{supercomputer}.
+Kemampuan komputasi komputer berkembang seiring berjalannya waktu. Komputer mula - mula merupakan alat untuk melakukan operasi matematika semata. Namun seiring berkembangnya kebutuhan manusia, komputer tidak hanya melakukan operasi matematika semata. Komputer dipergunakan diberbagai bidang pekerjaan manusia, seperti industri kreatif perancangan \textit{design},\textit{game},pembuatan film, studio musik, pengolahan dokumen, maupun fungsi utama semula komputer, kemampuan komputasi untuk penelitian dalam bidang pendidikan.
+\newline
+\hspace{1.5cm}Pemanfaatan komputer dalam bidang penelitian mencakup berbagai hal. Dimulai dari penyimpanan data - data mentah yang nanti akan diolah dalam suatu proses aritmatika maupun data - data hasil pengolahan yang akan dilanjutkan dalam penelitian selanjutnya atau dibagikan dengan rekan sepenelitian. Beberapa bidang penelitian melakukan pengolahan data yang memerlukan kemampuan komputasi yang besar. Salah satunya adalah \textit{drug discovery}. Kemampuan ini dapat diperoleh dengan menggunakan \textit{supercomputer}. Terlepas keuntungan yang diperoleh dari pemanfaatan \textit{supercomputer}, terdapat kendala utama bagi para peneliti khususnya di negara berkembang. Kendala tersebut adalah besarnya dana yang harus dialokasikan dalam pengadaan \textit{supercomputer}. Tidak hanya itu saja, dengan semakin besarnya proses komputasi yang ada, maka semakin besar asumsi daya dibutuhkan oleh \textit{supercomputer}. Diperlukan pengetahuan khusus dalam merawat \textit{supercomputer}, sehingga para peneliti tidak hanya fokus dengan penelitiannya, namun dengan pengoperasian dan perawatan \textit{supercomputer} tersebut. Dan yang terakhir adalah alokasi tempat yang strategis untuk meletakan \textit{supercomputer} tersebut ditempat yang aman sehingga \textit{supercomputer} tidak mudah rusak dan data - data penelitian terjamin keamanannya 
+\\
+Salah satu alternatif yang dapat digunakan untuk menggantikan \textit{supercomputer} adalah pemanfaatan teknologi \textit{cloud computing}. Dengan ketiga sifat \textit{cloud computing} yaitu virtualisasi, distribusi, dan kemudahan dalam pengembangan dapat menutupi kekurangan \textit{supercoomputer}. Kemampuan virtualisasi dalam \textit{cloud computing} membuat seolah olah kita dapat mengoperasikan lebih dari 1 komputer walaupun hanya terdapat 1 \textit{server}. Selain itu peneliti tidak perlu mengetahui secara detail bagaimana teknologi ini bekerja dan perawatannya sehingga mereka dapat berfokus dengan penelitian yang sedang dikerjakan.
 \begin{figure}
 	\centering
-	\includegraphics[scale = 0.5]{virtual_machine.png}
-	\caption{\textit{virtual machine}}
-	\includegraphics[scale = 0.1]{cloud_computing.png}
-	\caption{\textit{cloud computing}}
+	\includegraphics[scale=0.1]{cloud_computing.png}
+	\caption{Ilustrasi Cloud Computing}
 \end{figure}
-Salah satu bidang penelitian terkini yang menggunakan teknologi informasi dengan komputasi
-tinggi adalah \textit{drug discovery}. Teknik terkait yang digunakan adalah 
-\textit{virtual screening}, baik itu secara \textit{ligand-based} atau \textit{structured-based}
-. Pemanfaatan teknologi \textit{cloud computing} diharapkan dapat memberikan kemudahan
-bagi para peneliti tanpa perlu mempelajari secara detail pengoperasian dan perawatan teknologi yang mereka gunakan secara mendalam dan mengurangi kendala biaya dalam pengadaan \textit{supercomputer}. Dengan adanya \textit{cloud computing} peneliti juga dapat saling berbagi
-\textit{resource}.
+Permasalahan yang muncul ketika memanfaatkan \textit{cloud computing} adalah bagaimana kita dapat mendapatkan kemampuan komputasi yang serupa dengan \textit{supercomputer}. Dengan sifat virtualisasi \textit{cloud computing} , kita dapat menjalankan banyak \textit{operating system} dalam 1 \textit{server}. Namun perlu upaya untuk mengoptimisasi virtualisas tersebut sehingga dapat memaksimalkan jumlah \textit{operating system } yang dapat berjalan dalam sebuah server. Salah satu aplikasi yang memiliki keunggulan dalam virtualisasi adalah Docker
+\begin{figure}
+	\centering
+	\includegraphics{docker.png}
+	\caption{Docker}
+\end{figure}
+
+ 
 
 %-----------------------------------------------------------------------------%
 \section{Permasalahan}
@@ -35,35 +33,23 @@ bagi para peneliti tanpa perlu mempelajari secara detail pengoperasian dan peraw
 %-----------------------------------------------------------------------------%
 \subsection{Definisi Permasalahan}
 %-----------------------------------------------------------------------------%
-Berdasarkan latar belakang yang telah dijelaskan, penulis berusaha untuk menganalisis
-apakah pemanfaatan Docker sebagai salah satu aplikasi abstraksi komputer secara \textit{virtual} dapat diajukan sebagai solusi alternatif
-yang dapat digunakan dalam penelitian, khususnya terkait \textit{drug discovery}. 
-Pengadaan \textit{supercomputer} secara fisik tentunya akan memakan alokasi tempat maupun biaya dalam penelitian.
-Selain itu, dengan adanya \textit{cloud computing}, peneliti tidak dituntut untuk memahami
-teknologi terkait secara mendalam, cukup fokus dengan penelitian yang sedang dikerjakan. Peneliti juga dapat dengan mudah saling berbagi \textit{resource}, baik itu sumber komputasi maupun data mentah maupun yang telah diolah.  
-Aplikasi yang digunakan dalam tugas akhir ini adalah Autodock dan Autodock Vina bertugas untuk \textit{virtual screening}.
-
+Berdasarkan latar belakang yang telah dijelaskan, penulis berusaha untuk menganalisis apakah pemanfaatan teknologi \textit{cloud computing}dengan menggunakan \textit{platform} Docker untuk virtualisasi komputer dapat diajukan sebagai solusi alternatif dari \textit{supercomputer} dan apakah performa yang diberikan oleh Docker tidak berbeda jauh dengan \textit{grid computing}. Untuk itu, penulis akan mencoba \textit{virtual screening} yang terdapat dalam \textit{drug discovery} dengan menggunakan aplikasi Autodock dan Autodock Vina yang terinstall pada Docker.
 
 %-----------------------------------------------------------------------------%
 \subsection{Batasan Permasalahan}
 %-----------------------------------------------------------------------------%
-Pada penelitian ini, penulis tidak akan berfokus pada \textit{virtual screening} yang akan dilakukan.Penulis mencoba untuk menganalasis apakah kinerja Docker setara atau lebih baik dibandingkan dengan \textit{cluster} dan 
-\textit{grid computing} dalam melakukan \textit{drug discovery}. 
-
+Pada penelitian ini, penulis lebih berfokus kepada performa Docker dalam menjalankan aplikasi Autodock dan Autodock Vina untuk \textit{virtual screening}. Penulis tidak akan membahas segi \textit{virtual screening} dikarenakan keterbatasan pengetahuan yang dimiliki. 
 
 %-----------------------------------------------------------------------------%
 \section{Tujuan}
 %-----------------------------------------------------------------------------%
-Penelitian ini secara umum bertujuan untuk mengenalkan pemanfaatan abstraksi komputer secara \textit{virtual} dibantu dengan teknologi \textit{cloud computing}
-sebagai alternatif pengadaan \textit{supercomputer} secara fisik terkait dengan penelitian dengan menggunakan komputasi yang tinggi, khususnya \textit{drug discovery}
-dalam bidang farmakologi. Selain itu, Penelitian ini secara khusus untuk menganalisis kinerja Docker
-dalam menjalankan Autodock maupun Autodock Vina.
+Penelitian ini secara umum bertujuan untuk mengenalkan pemanfaatan \textit{platform} Docker dalam virtualisasi komputer yang digabungkan dengan teknologi \textit{cloud computing} untuk menghasilkan performa komputasi dengan harga terjangkau dibandingkan dengan pengadaan \textit{supercomputer} maupun \textit{grid computing}.
 
 
 %-----------------------------------------------------------------------------%
 \section{Posisi Penelitian}
 %-----------------------------------------------------------------------------%
-Penelitian ini merupakan lanjutan dari topik yang sedang dilakukan oleh Bapak Muhammad Hafizhuddin Hilman, S.Kom., M.Kom. 
+Penelitian ini mencari alternatif lain dari \textit{supercomputer} dengan memanfaatkan teknologi \textit{cloud computing}. Hasil dari penelitian ini akan dibandingkan dengan hasil penelitian serupa yang telah dikerjakan oleh Bapak Muhammad Hafizhuddin Hilman, S.Kom., M.Kom.
 
 %-----------------------------------------------------------------------------%
 \section{Sistematika Penulisan}

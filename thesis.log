@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.3.8)  20 MAR 2015 21:58
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.3.8)  30 MAR 2015 19:47
 entering extended mode
 **thesis.tex
 (C:\Users\agungputra\Documents\Skripshit\thesis.tex
@@ -771,48 +771,46 @@ BAB 1.
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 3.
 
-<virtual_machine.png, id=386, 451.6875pt x 412.54124pt>
-File: virtual_machine.png Graphic file (type png)
-
-<use virtual_machine.png>
-Package pdftex.def Info: virtual_machine.png used on input line 20.
-(pdftex.def)             Requested size: 225.84319pt x 206.27011pt.
-
 <cloud_computing.png, id=387, 2007.5pt x 1817.79124pt>
 File: cloud_computing.png Graphic file (type png)
 
 <use cloud_computing.png>
-Package pdftex.def Info: cloud_computing.png used on input line 22.
+Package pdftex.def Info: cloud_computing.png used on input line 18.
 (pdftex.def)             Requested size: 200.76175pt x 181.78976pt.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.25 S
-      alah satu bidang penelitian terkini yang menggunakan teknologi informa...
-[1
+l.20 \end{figure}
+                  [1
 
 
 
-]
+] <docker.png, id=392, 231.264pt x 192.72pt>
+File: docker.png Graphic file (type png)
+
+<use docker.png>
+Package pdftex.def Info: docker.png used on input line 24.
+(pdftex.def)             Requested size: 231.26343pt x 192.71951pt.
+
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[2 <C:/Users/agungputra/Documents/Skripshit/virtual_machine.png> <C:/Users/agun
-gputra/Documents/Skripshit/cloud_computing.png>]
-
-Package Fancyhdr Warning: \headheight is too small (0.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[3]
+[2 <C:/Users/agungputra/Documents/Skripshit/cloud_computing.png> <C:/Users/agun
+gputra/Documents/Skripshit/docker.png>]
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
-(Font)              Font shape `OMS/pzccm/m/n' tried instead on input line 73.
-)
+(Font)              Font shape `OMS/pzccm/m/n' tried instead on input line 59.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[3])
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
  Make it at least 14.49998pt.
@@ -964,7 +962,7 @@ Overfull \hbox (27.94829pt too wide) in paragraph at lines 34--36
 
 
 
-] <include.pdf, id=478, 597.51233pt x 845.0471pt>
+] <include.pdf, id=479, 597.51233pt x 845.0471pt>
 File: include.pdf Graphic file (type pdf)
  <use include.pdf>
 Package pdftex.def Info: include.pdf used on input line 57.
@@ -981,7 +979,7 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[14] <include.pdf, id=485, page=1, 597.51233pt x 845.0471pt>
+[14] <include.pdf, id=486, page=1, 597.51233pt x 845.0471pt>
 File: include.pdf Graphic file (type pdf)
 
 <use include.pdf, page 1>
@@ -1148,17 +1146,17 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 115.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 115.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 115.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 72B794C09F2FA103D2CE71C07705DC81;2961.
+(rerunfilecheck)             Checksum: 7E16E900BE673213DD958EFF6B2FAE16;2961.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 115.
  ) 
 Here is how much of TeX's memory you used:
- 9349 strings out of 493921
- 140866 string characters out of 3147268
+ 9350 strings out of 493921
+ 140838 string characters out of 3147268
  241218 words of memory out of 3000000
  12188 multiletter control sequences out of 15000+200000
  49251 words of font info for 98 fonts, out of 3000000 for 9000
  910 hyphenation exceptions out of 8191
- 44i,18n,45p,521b,458s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 44i,18n,45p,1392b,458s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program File
 s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX
  2.9/fonts/type1/public/amsfonts/cmextra/cmex9.pfb><C:/Program Files/MiKTeX 2.9
@@ -1170,9 +1168,9 @@ gram Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX
  2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
 /urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8
 a.pfb>
-Output written on thesis.pdf (37 pages, 646853 bytes).
+Output written on thesis.pdf (37 pages, 701197 bytes).
 PDF statistics:
- 593 PDF objects out of 1000 (max. 8388607)
- 100 named destinations out of 1000 (max. 500000)
+ 594 PDF objects out of 1000 (max. 8388607)
+ 101 named destinations out of 1000 (max. 500000)
  432 words of extra memory for PDF output out of 10000 (max. 10000000)
 

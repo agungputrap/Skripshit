@@ -1,2 +1,3 @@
 cloud computing - http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Cloud_computing.svg/2000px-Cloud_computing.svg.png
 virtual machine - http://ds.iris.edu/media/newsletter/vol14/no2/leaner-greener-data-management-at-iris-dmc-the-journey-of-virtual-machine-consolidation/virtual_machine.png
+docker - http://getcloudify.org/img/docker.png
