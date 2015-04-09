@@ -1,206 +1,51 @@
 %-----------------------------------------------------------------------------%
 \chapter{\babDua}
 %-----------------------------------------------------------------------------%
-\todo{tambahkan kata-kata pengantar bab 2 disini}
-
+Bab ini akan menjelaskan sekilas tentang \textit{computational drug discovery}, apa itu \textit{cloud computing} , dan Docker sebagai platform virtualisasi komputer. 
 %-----------------------------------------------------------------------------%
-\section{\latex~Secara Singkat}
+\section{\textit{Computational Drug discovery}}
 %-----------------------------------------------------------------------------%
-Berdasarkan \cite{latex.intro}: \\ 
-\begin{tabular}{| p{13cm} |}
-	\hline 
-	\\
-	LaTeX is a family of programs designed to produce publication-quality 
-	typeset documents. It is particularly strong when working with 
-	mathematical symbols. \\	
-	The history of LaTeX begins with a program called TEX. In 1978, a 
-	computer scientist by the name of Donald Knuth grew frustrated with the 
-	mistakes that his publishers made in typesetting his work. He decided 
-	to create a typesetting program that everyone could easily use to 
-	typeset documents, particularly those that include formulae, and made 
-	it freely available. The result is TEX. \\	
-	Knuth's product is an immensely powerful program, but one that does 
-	focus very much on small details. A mathematician and computer 
-	scientist by the name of Leslie Lamport wrote a variant of TEX called 
-	LaTeX that focuses on document structure rather than such details. \\
-	\\
-	\hline
-\end{tabular}
+\hspace{0.5cm}\textit{Drug discovery} adalah suatu proses menemukan kandidat obat yang berpotensial. Proses ini melibatkan berbagai displin ilmu seperti biologi, kimia, maupun farmakologi. Dalam \textit{drug discovery} dahulu kala, terkadang obat tersebut ditemukan secara tidak sengaja(\textit{serendipity}) atau berdasarkan penyembuhan tradisional. Seiring dengan berkembangnya pengetahuan dan teknologi, khususnya dalam bidang kimia, ekstraksi senyawa kimia dari makhluk hidup merupakan hal yang wajar. Ekstrak tersebut akan disimpan dan akan disimpan sebagai dalam suatu \textit{library} yang nantinya dapat digunakan kembali. Ekstrak tersebut dapat di-\textit{screening}, apakah terdapat senyawa yang berpotensi sebagai penyembuh dari suatu \textit{sympton} penyakit. Hal ini merupakan dasar farmakologi (\textit{classical pharmacology}).
 
-\vspace*{0.8cm}
-
-Dokumen \latex~sangat mudah, seperti halnya membuat dokumen teks biasa. Ada 
-beberapa perintah yang diawali dengan tanda '\bslash'. 
-Seperti perintah \bslash\bslash~yang digunakan untuk memberi baris baru. 
-Perintah tersebut juga sama dengan perintah \bslash newline. 
-Pada bagian ini akan sedikit dijelaskan cara manipulasi teks dan 
-perintah-perintah \latex~yang mungkin akan sering digunakan. 
-Jika ingin belajar hal-hal dasar mengenai \latex, silahkan kunjungi: 
-
-\begin{itemize}
-	\item \url{http://frodo.elon.edu/tutorial/tutorial/}, atau
-	\item \url{http://www.maths.tcd.ie/~dwilkins/LaTeXPrimer/}
-\end{itemize}
-
-
-%-----------------------------------------------------------------------------%
-\section{\latex~Kompiler dan IDE}
-%-----------------------------------------------------------------------------%
-Agar dapat menggunakan \latex~(pada konteks hanya sebagai pengguna), Anda 
-tidak perlu banyak tahu mengenai hal-hal didalamnya. 
-Seperti halnya pembuatan dokumen secara visual (contohnya Open Office (OO) 
-Writer), Anda dapat menggunakan \latex~dengan cara yang sama. 
-Orang-orang yang menggunakan \latex~relatif lebih teliti dan terstruktur 
-mengenai cara penulisan yang dia gunakan, \latex~memaksa Anda untuk seperti 
-itu.  
-
-Kembali pada bahasan utama, untuk mencoba \latex~Anda cukup mendownload 
-kompiler dan IDE. Saya menyarankan menggunakan Texlive dan Texmaker. 
-Texlive dapat didownload dari \url{http://www.tug.org/texlive/}. 
-Sedangkan Texmaker dapat didownload dari 
-\url{http://www.xm1math.net/texmaker/}. 
-Untuk pertama kali, coba buka berkas thesis.tex dalam template yang Anda miliki 
-pada Texmaker. 
-Dokumen ini adalah dokumen utama. 
-Tekan F6 (PDFLaTeX) dan Texmaker akan mengkompilasi berkas tersebut menjadi 
-berkas PDF. 
-Jika tidak bisa, pastikan Anda sudah menginstall Texlive. 
-Buka berkas tersebut dengan menekan F7. 
-Hasilnya adalah sebuah dokumen yang sama seperti dokumen yang Anda baca saat 
-ini. 
-
-
-%-----------------------------------------------------------------------------%
-\section{Bold, Italic, dan Underline}
-%-----------------------------------------------------------------------------%
-Hal pertama yang mungkin ditanyakan adalah bagaimana membuat huruf tercetak 
-tebal, miring, atau memiliki garis bawah. 
-Pada Texmaker, Anda bisa melakukan hal ini seperti halnya saat mengubah dokumen 
-dengan OO Writer. 
-Namun jika tetap masih tertarik dengan cara lain, ini dia: 
-
-\begin{itemize}
-	\item \bo{Bold} \\
-		Gunakan perintah \bslash textbf$\lbrace\rbrace$ atau 
-		\bslash bo$\lbrace\rbrace$. 
-	\item \f{Italic} \\
-		Gunakan perintah \bslash textit$\lbrace\rbrace$ atau 
-		\bslash f$\lbrace\rbrace$. 
-	\item \underline{Underline} \\
-		Gunakan perintah \bslash underline$\lbrace\rbrace$.
-	\item $\overline{Overline}$ \\
-		Gunakan perintah \bslash overline. 
-	\item $^{superscript}$ \\
-		Gunakan perintah \bslash $\lbrace\rbrace$. 
-	\item $_{subscript}$ \\
-		Gunakan perintah \bslash \_$\lbrace\rbrace$. 
-\end{itemize}
-
-Perintah \bslash f dan \bslash bo hanya dapat digunakan jika package 
-uithesis digunakan. 
-
-
-%-----------------------------------------------------------------------------%
-\section{Memasukan Gambar}
-%-----------------------------------------------------------------------------%
-Setiap gambar dapat diberikan caption dan diberikan label. Label dapat 
-digunakan untuk menunjuk gambar tertentu. 
-Jika posisi gambar berubah, maka nomor gambar juga akan diubah secara 
-otomatis. 
-Begitu juga dengan seluruh referensi yang menunjuk pada gambar tersebut. 
-Contoh sederhana adalah \pic~\ref{fig:testGambar}. 
-Silahkan lihat code \latex~dengan nama bab2.tex untuk melihat kode lengkapnya. 
-Harap diingat bahwa caption untuk gambar selalu terletak dibawah gambar. 
-
+Waktu yang dibutuhkan dalam proses \textit{drug discovery} cukup lama. Tidak hanya itu, proses ini juga sangat beresiko dan membutuhkan dana yang besar [1].Walaupun demikian, investasi dana dalam \textit{drug discovery} juga berkembang pesat. Namun, investasi tersebut tidak dibarengi dengan hasil yang proporsional dengan investasi tersebut. Hal ini disebabkan oleh rendahnya efektivitas dan tingginya kemungkinan kegagalan dalam \textit{drug discovery}. Beberapa pendekatan telah dilakukan dalam meningkatkan efektivitas, salah satu cara tersebut adalah CADD (\textit{Computer Aided Drug Design}).Dengan begitu, penekanan biaya dan siklus waktu penemuan obat juga semakin cepat. Dalam CADD, komputer digunakan sebagai sarana komputasi dan penyimpanan data dalam \textit{drug discovery}. Tidak ketinggalan, CADD menggunakan aplikasi dalam mendesain ikatan kimiawi, memodelkan struktur kimia yang mengandung kandidat calon obat yang berpotensial dan pembuatan \textit{library} yang dapat digunakan untuk pembelajaran selanjutnya.
 \begin{figure}
 	\centering
-	\includegraphics[width=0.50\textwidth]
-		{pics/creative_common.png}
-	\caption{\license.}
-	\label{fig:testGambar}
+	\includegraphics [scale=0.4]{siklus_dd.png}
+	\caption{Pemanfaatan komputer sebagai sarana komputasi dalam \textit{drug discovery}}
+\end{figure}
+Dalam \textit{computational drug discovery} (penemuan obat dengan memanfaatkan komputer), pendekatan yang dapat dilakukan dibagi menjadi \textit{structure-based drug design}(SBDD), \textit{ligand-based drug design}(LBDD) dan pendekatan berdasarkan sekuens.  terdiri dari proses \textit{docking} kandidat \textit{ligand} ke target protein kemudian dilakukan penilaian dengan menggunakan \textit{scoring function} untuk dapat menghitung kemungkinan \textit{ligand}tersebut terikat pada target protein dengan daya tarik yang tinggi. 
+\begin{figure}
+	\centering
+	\includegraphics [scale=0.5]{receptor.png}
+	\caption{Ilustrasi \textit{ligand}(nomor 1)yang akan terikat dengan \textit{receptor}(nomor 2)}
+\end{figure}   
+Dalam LBDD, diberikan sekumpulan \textit{ligand} dan \textit{receptor}, dimana model \textit{receptor}dapat dibuat dengan mengumpulkan informasi dari \textit{ligand}. Model ini dikenal dengan \textit{pharmacophore}. Kemudian, kandidat \textit{ligand} akan dibandingkan dengan \textit{pharmacophore}, apakah kompatibel dengan \textit{pharmacophore} dan dapat terikat.
+\begin{figure}
+	\centering
+	\includegraphics [scale=0.3]{pharmacophore.png}
+	\caption{Contoh dari \textit{pharmacophore}}
+\end{figure}  
+
+\section{\textit{Molecular Docking}}
+%-----------------------------------------------------------------------------%
+
+\textit{Virtual screening} berdasarkan \textit{molecular docking} merupakan metode yang sering digunakan dalam SBDD. Penulis juga akan menggunakan metode tersebut yang terdapat dalam Program Autodock dan Autodock Vina. Pemodelan struktur kimia menggunakan \textit{molecular modeling} untuk mempelajari fenomena dari struktur kimia tersebut. Kemudahan dalam \textit{molecular modeling} sekarang ini dibantu dengan aplikasi komputer yang tersedia, namun masih terdapat kesulitan yaitu bagaiman cara mendapatkan model struktur ikatan kimia yang benar dan interpretasi model yang tepat.Secara umum, \textit{molecular modeling} dapat dikatakan sebagai pemanfaatan komputer dalam mengkonstruksi molekul dan melakukan berbagai macam perhitungan untuk mempelajari karakteristik dan sifat struktur ikatan kimia. Istilah \textit{molecular modeling} terkadang disamakan dengan istilah \textit{computational chemistry}.
+
+Proses \textit{drug discovery} yang semula berupa \textit{trial and error} berubah menjadi proses yang dibantu dengan perhitungan komputer. Perhitungan tersebut digunakan dalam menentukan struktur ikatan kimia baru berdasarkan struktur protein yang sudah diketahui. Pendekatan ini terbagi menjadi dua : \textit{de novo design} dan \textit{docking}. \textit{Docking} merupakan suatu proses untuk menebak struktur \textit{complex} dari struktur \textit{ligand} dan protein. Dalam \textit{molecular modeling}, \textit{docking} dapat dipandang sebagai suatu metode untuk memprediksi orientasi suatu molekul ketika diikat dengan molekul lainnya untuk membentuk \textit{complex} yang stabil.  
+\begin{figure}
+	\centering
+	\includegraphics{docking.png}
+	\caption{\textit{Proses molecular docking }}
 \end{figure}
 
+\textit{Molecular docking} adalah suatu proses komputasi dalam pencarian \textit{ligand} yang paling cocok baik secara geometri maupun energi ketika diikat dengan suatu \textit{receptor}(protein) yang telah diketahui.Aspek utama dalam \textit{molecular docking} adalah perhitungan energi interaksi dan konformasi dengan menggunakan metode dari kuantum mekanik hingga fungsi empiris energi. Permasalahan \textit{molecular docking} sekilas dapat dilihat sebagai suatu permasalahan \textit{lock and key}, dimana \textit{receptor} protein dapat dipandang sebagai \textit{lock} dan \textit{ligand} sebagai \textit{key}. Namun dalam praktiknya, \textit{molecular docking} akan mencari \textit{ligand} yang dapat menyesuaikan dengan \textit{receptor}.karena adaptasi tersebut, \textit{molecular docking} dapat dipandang sebagai permasalahan "\textit{best-fit}" \textit{ligand}. Diperlukan \textit{scoring function} untuk dapat membatasi \textit{best-fit} dari proses \textit{molecular docking}. Fungsi tersebut biasanya berdasarkan \textit{force field} yang digunakan dalam mensimulasikan protein. Beberapa \textit{scoring function} juga menambahkan aspek perhitungan lainnya seperti entropi.
+\begin{figure}
+	\centering
+	\includegraphics{molecular_docking.png}
+	\caption{\textit{best-fit docking}}
+\end{figure}
+Dalam percobaan ini penulis memanfaatkan aplikasi \textit{molecular docking} Autodock dan Autodock Vina.
 
+\section{\textit{Autodock dan Autodock Vina}}
 %-----------------------------------------------------------------------------%
-\section{Membuat Tabel}
-%-----------------------------------------------------------------------------%
-Seperti pada gambar, tabel juga dapat diberi label dan caption. 
-Caption pada tabel terletak pada bagian atas tabel. 
-Contoh tabel sederhana dapat dilihat pada \tab~\ref{tab:tab1}.
-
-\begin{table}
-	\centering
-	\caption{Contoh Tabel}
-	\label{tab:tab1}
-	\begin{tabular}{| l | c r |}
-		\hline
-		& kol 1 & kol 2 \\ 
-		\hline
-		baris 1 & 1 & 2 \\
-		baris 2 & 3 & 4 \\
-		baris 3 & 5 & 6 \\
-		jumlah  & 9 & 12 \\
-		\hline
-	\end{tabular}
-\end{table}
-
-Ada jenis tabel lain yang dapat dibuat dengan \latex~berikut 
-beberapa diantaranya. 
-Contoh-contoh ini bersumber dari 
-\url{http://en.wikibooks.org/wiki/LaTeX/Tables}
-
-\begin{table}
-	\centering
-	\caption{An Example of Rows Spanning Multiple Columns}
-	\label{row.spanning}
-	\begin{tabular}{|l|l|*{6}{c|}}
-  		\hline % create horizontal line
-  		No & Name & \multicolumn{3}{|c|}{Week 1} & \multicolumn{3}{|c|}{Week 2} \\
-  		\cline{3-8} % create line from 3rd column till 8th column
-  		& & A & B & C & A & B & C\\
-  		\hline
-  		1 & Lala & 1 & 2 & 3 & 4 & 5 & 6\\
-  		2 & Lili & 1 & 2 & 3 & 4 & 5 & 6\\
-  		3 & Lulu & 1 & 2 & 3 & 4 & 5 & 6\\
-  		\hline
-	\end{tabular}
-\end{table}
-
-\begin{table}
-	\centering
-	\caption{An Example of Columns Spanning Multiple Rows}
-	\label{column.spanning}
-	\begin{tabular}{|l|c|l|}
-		\hline
-		Percobaan & Iterasi & Waktu \\
-		\hline
-		Pertama & 1 & 0.1 sec \\ \hline
-		\multirow{2}{*}{Kedua} & 1 & 0.1 sec \\
- 		& 3 & 0.15 sec \\ 
- 		\hline
-		\multirow{3}{*}{Ketiga} & 1 & 0.09 sec \\
- 		& 2 & 0.16 sec \\
- 		& 3 & 0.21 sec \\ 
- 		\hline
-	\end{tabular}
-\end{table}
-
-\begin{table}
-	\centering
-	\caption{An Example of Spanning in Both Directions Simultaneously}
-	\label{mix.spanning}
-	\begin{tabular}{cc|c|c|c|c|}
-		\cline{3-6}
-		& & \multicolumn{4}{|c|}{Title} \\ \cline{3-6}
-		& & A & B & C & D \\ \hline
-		\multicolumn{1}{|c|}{\multirow{2}{*}{Type}} &
-		\multicolumn{1}{|c|}{X} & 1 & 2 & 3 & 4\\ \cline{2-6}
-		\multicolumn{1}{|c|}{}                        &
-		\multicolumn{1}{|c|}{Y} & 0.5 & 1.0 & 1.5 & 2.0\\ \cline{1-6}
-		\multicolumn{1}{|c|}{\multirow{2}{*}{Resource}} &
-		\multicolumn{1}{|c|}{I} & 10 & 20 & 30 & 40\\ \cline{2-6}
-		\multicolumn{1}{|c|}{}                        &
-		\multicolumn{1}{|c|}{J} & 5 & 10 & 15 & 20\\ \cline{1-6}
-	\end{tabular}
-\end{table}
-
+\hspace{0.5cm}Aplikasi ini merupakan aplikasi yang dikembangkan oleh \textit{The Scripps Research Institute}, lembaga riset nonprofit yang terletak di California, Amerika Serikat.
