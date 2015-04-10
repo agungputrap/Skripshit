@@ -48,4 +48,39 @@ Dalam percobaan ini penulis memanfaatkan aplikasi \textit{molecular docking} Aut
 
 \section{\textit{Autodock dan Autodock Vina}}
 %-----------------------------------------------------------------------------%
-\hspace{0.5cm}Aplikasi ini merupakan aplikasi yang dikembangkan oleh \textit{The Scripps Research Institute}, lembaga riset nonprofit yang terletak di California, Amerika Serikat.
+\hspace{0.5cm}Aplikasi ini merupakan aplikasi yang dikembangkan oleh \textit{The Scripps Research Institute}, lembaga riset nonprofit yang terletak di California, Amerika Serikat. Terdapat 2 jenis aplikasi, Autodock dan Autodock Vina. Masing masing merupakan aplikasi yang saling berbeda dalam segi \textit{scoring function} yang digunakan dan optimisasi komputasi secara paralel oleh Autodock Vina. 
+
+Paket aplikasi Autodock terdiri dari 2 program, Autodock4 dan Autogrid4. AutoGrid akan menghasilkan \textit{pre-calculated map} dari suatu \textit{ligand}.Selain itu juga akan menghasilkan \textit{map} tambahan, "d" untuk \textit{desolvation} dan "e" untuk \textit{electrostatic}.Pengoperasian Autodock membutuhkan beberapa file, yaitu : *.dpf untuk pengaturan \textit{docking} parameter , hasil \textit{map} berupa *.gpf dari AutoGrid , dan *.pdbqt untuk \textit{receptor} dan \textit{ligand} yang akan diujicoba. Keluaran yang dihasilkan oleh Autodock berupa *.dlg yang berisi hasil perhitungan konformasi posisi dan energi pada setiap \textit{ligand} yang diujicoba. Paket aplikasi Autodock Vina hanya datang dengan sebuah program saja dikarenakan proses \textit{pre-processing docking} dibuat transparan sehingga pengguna tidak perlu tahu dan memahami bagaimana aplikasi tersebut bekerja. Autodock Vina membutuhkan 2 file, *.pdbqt dari \textit{receptor} dan *.pdbqt dari tiap \textit{ligand} yang akan diujicobakan. Keluaran yang dihasilkan juga beruapa *.pdbqt yang beisikan konformitas posisi dan energi.
+\begin{figure}
+	\centering
+	\includegraphics{autodock.jpg}
+	\caption{Logo Autodock}
+\end{figure}
+
+\section{\textit{Cloud Computing}}
+%-----------------------------------------------------------------------------% 
+\hspace{0.5 cm}Seperti yang telah dijelaskan sebelumnya, pemanfaatan komputer dalam riset mengalami kendala di negara berkembang. Biaya yang harus dikeluarkan dan sumber daya listrik yang dibutuhkan untuk pengadaan \textit{supercomputer} terbilang besar. Selain itu, dibutuhkan pengetahuan lebih terhadap perangkat keras yang akan digunakan tersebut. Hal ini bertujuan supaya pemeliharaan dan penggunaan \textit{supercomputer} lebih baik. Dengan perkembangan teknologi jaringan dan internet yang pesat, muncul teknologi baru yang dikenal dengan \textit{cloud computing}. Teknologi menjawab permasalahan pengadaan perangkat komputasi dan tidak peneliti tidak perlu memahami secara dalam dibalik layanan yang disediakan oleh teknologi tersebut.
+
+
+\hspace{0.5cm}Teknologi \textit{cloud computing} sudah berkembang sejak tahun 1990-an. Pada awalnya teknologi ini dikembangkan sebagai solusi dari permasalahan yang dihadapi oleh perusahaan dengan bertambahnya kapasitas data yang perlu disimpan dan pengeluaran yang cukup besar untuk pengadaan perangkat keras beserta konsumsi daya listrik yang dibutuhkan. Definisi dari \textit{cloud computing} dapat dikatakan sebagai virtualisasi dari perangkat komputasi, dimana pengguna mengakses perangkat tersebut dengan menggunakan jaringan internet. Selain itu, teknologi ini memberikan kemudahan dalam penggunaan secara \textit{multiuser}, dimana dapat diakses secara bersamaan.
+
+Terdapat 3 karakteristik dari teknologi \textit{cloud computing}, yaitu virtualisasi, terdistribusi, dan kemudahan dalam pengembangan selanjutnya (\textit{dynamically extendibility}). Virtualisasi merupakan faktor yang utama. Virtualisasi dapat membagi suatu perangkat komputasi secara fisik menjadi beberapa "virtual" perangkat komputasi. Dengan begitu, kinerja dari perangkat akan dioptimisasi. Alokasi sumber daya perangkat keras tidak ada yang diam secara percuma. Disamping itu, dengan adanya virtualisasi dapat menekan biaya pengeluaran pengadaan perangkat komputasi secara fisik. Yang dimaksud dengan terdistribusi adalah perangkat keras (\textit{physical node}) yang digunakan dalam \textit{cloud computing} digunakan secara terdistribusi. Dalam tahap pengembangan teknologi ini memberikan kemudahan. Kemudahan tersebut merupakan efek dari virtualisasi. Ketika pengguna ingin mengikuti perkembangan yang ada, tidak perlu merubah / membuat kembali dari awal. Pengguna dapat merubah dari level virtual (virtualisasi).
+
+
+Terdapat 3 jasa yang disediakan dalam \textit{cloud computing} :
+\begin{itemize}
+	\item \textbf{Software as a Service (SaaS)}\\
+	Layanan jasa ini menyediakan aplikasi dan penyimpanan data (\textit{database}) yang langsung dapat digunakan. Pengguna dapat mengakses aplikasi secara bersamaan dengan pengguna lainnya. SaaS dikenal juga sebagai \textit{on-demand software} dan biaya yang dikenakan oleh penyedia jasa ini merupakan \textit{pay-per-use}. Umumnya, pengguna akan dikenakan biaya bulanan atau tahunan. Pengguna tidak perlu susah - susah untk menginstall aplikasi pada \textit{cloud} dikarenakan penyedia jasa tersebut akan melakukan hal tersebut. Saas memberikan keuntungan bagi perusahaan dengan cara mengurangi biaya operasional IT (Information Technology). Hal ini dikarenakan biaya untuk pemeliharaan dan pengadaan perangkat komputasi ditanggungkan kepada pihak penyedia jasa (\textit{outsourcing}). Contoh dari Saas adalah layanan \textit{e-mail}, media sosial.
+	
+	\item \textbf{Platform as a Service (PaaS)}\\
+	Berbeda dengan Saas, layanan ini menyediakan perangkat komputasi yang dapat digunakan untuk menjalankan aplikasi dari pengguna. Layanan ini dapat menyediakan sistem operasi atau \textit{framework} yang dibutuhkan dalam menjalankan apliksi tersebut. Contoh dari layanan jasa ini adalah : Windows Azure, Amazon Web Service, dan Google App Engine.
+	
+	\item \textbf{Infrastructure as a Service (IaaS)}\\
+	layanan ini menyediakan infrastruktur IT kepada pengguna sesuai dengan permintaan yang dapat diakses dengan jaringan internet. Infrstruktur tersebut meliputi perangkat keras seperti \textit{harddisk, memory, firewall}, tipe server, alamat IP, \textit{virtual local area networks}(VLANs), maupun aplikasi yang harus terinstall dalam server 
+	  
+\end{itemize}
+\begin{figure}
+	\centering
+	\includegraphics[scale=0.6]{layanan_cloud.png}
+	\caption{Layanan dalam \textit{cloud computing}}
+\end{figure}

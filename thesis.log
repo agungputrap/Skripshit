@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.3.8)  9 APR 2015 11:58
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.3.8)  10 APR 2015 21:51
 entering extended mode
 **thesis.tex
 (C:\Users\agungputra\Documents\Skripshit\thesis.tex
@@ -523,7 +523,7 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: End \AtBeginDocument code.
 (C:\Users\agungputra\Documents\Skripshit\sampul.tex
-<pics/makara.png, id=179, 154.86429pt x 154.34807pt>
+<pics/makara.png, id=183, 154.86429pt x 154.34807pt>
 File: pics/makara.png Graphic file (type png)
  <use pics/makara.png>
 Package pdftex.def Info: pics/makara.png used on input line 14.
@@ -637,7 +637,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 62.
 
 (C:\Users\agungputra\Documents\Skripshit\pengantar.tex
-<pics/creative_common.png, id=206, 759.83875pt x 645.41125pt>
+<pics/creative_common.png, id=210, 759.83875pt x 645.41125pt>
 File: pics/creative_common.png Graphic file (type png)
 
 <use pics/creative_common.png>
@@ -651,7 +651,7 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
 
  <C:/Users/agungputra/Documents/Skripshit/pics/creative_common.png (PNG copy)>]
 
-<pics/mark.png, id=222, 336.25626pt x 66.2475pt>
+<pics/mark.png, id=226, 336.25626pt x 66.2475pt>
 File: pics/mark.png Graphic file (type png)
  <use pics/mark.png>
 Package pdftex.def Info: pics/mark.png used on input line 61.
@@ -771,7 +771,7 @@ BAB 1.
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 3.
 
-<cloud_computing.png, id=376, 2007.5pt x 1817.79124pt>
+<cloud_computing.png, id=388, 2007.5pt x 1817.79124pt>
 File: cloud_computing.png Graphic file (type png)
 
 <use cloud_computing.png>
@@ -786,7 +786,7 @@ l.22 \end{figure}
 
 
 
-] <docker.png, id=381, 231.264pt x 192.72pt>
+] <docker.png, id=393, 231.264pt x 192.72pt>
 File: docker.png Graphic file (type png)
 
 <use docker.png>
@@ -825,7 +825,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <14.4> not available
 (Font)              Font shape `OT1/ptm/b/it' tried instead on input line 6.
-<siklus_dd.png, id=397, 773.13844pt x 348.55219pt>
+<siklus_dd.png, id=409, 773.13844pt x 348.55219pt>
 File: siklus_dd.png Graphic file (type png)
  <use siklus_dd.png>
 Package pdftex.def Info: siklus_dd.png used on input line 13.
@@ -835,13 +835,13 @@ Package pdftex.def Info: siklus_dd.png used on input line 13.
 
 
 ]
-<receptor.png, id=404, 513.92pt x 289.08pt>
+<receptor.png, id=416, 513.92pt x 289.08pt>
 File: receptor.png Graphic file (type png)
  <use receptor.png>
 Package pdftex.def Info: receptor.png used on input line 19.
 (pdftex.def)             Requested size: 256.95937pt x 144.53964pt.
 
-<pharmacophore.png, id=405, 803.0pt x 645.41125pt>
+<pharmacophore.png, id=417, 803.0pt x 645.41125pt>
 File: pharmacophore.png Graphic file (type png)
  <use pharmacophore.png>
 Package pdftex.def Info: pharmacophore.png used on input line 25.
@@ -855,7 +855,7 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
 
 [6 <C:/Users/agungputra/Documents/Skripshit/siklus_dd.png> <C:/Users/agungputra
 /Documents/Skripshit/receptor.png>]
-<docking.png, id=412, 246.1697pt x 216.05719pt>
+<docking.png, id=424, 246.1697pt x 216.05719pt>
 File: docking.png Graphic file (type png)
  <use docking.png>
 Package pdftex.def Info: docking.png used on input line 37.
@@ -868,7 +868,7 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [7 <C:/Users/agungputra/Documents/Skripshit/pharmacophore.png>]
-<molecular_docking.png, id=418, 322.95656pt x 103.13531pt>
+<molecular_docking.png, id=430, 322.95656pt x 103.13531pt>
 File: molecular_docking.png Graphic file (type png)
 
 <use molecular_docking.png>
@@ -880,7 +880,6 @@ Underfull \hbox (badness 2486) in paragraph at lines 47--48
 m/m/it/12 molec-u-lar dock-ing
  []
 
-)
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
  Make it at least 14.49998pt.
@@ -889,13 +888,40 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
 
 [8 <C:/Users/agungputra/Documents/Skripshit/docking.png> <C:/Users/agungputra/D
 ocuments/Skripshit/molecular_docking.png>]
+<autodock.jpg, id=437, 304.13625pt x 74.2775pt>
+File: autodock.jpg Graphic file (type jpg)
+ <use autodock.jpg>
+Package pdftex.def Info: autodock.jpg used on input line 56.
+(pdftex.def)             Requested size: 304.1355pt x 74.27731pt.
+
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[9] (C:\Users\agungputra\Documents\Skripshit\bab3.tex
+[9 <C:/Users/agungputra/Documents/Skripshit/autodock.jpg>]
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[10] <layanan_cloud.png, id=446, 349.305pt x 323.2075pt>
+File: layanan_cloud.png Graphic file (type png)
+
+<use layanan_cloud.png>
+Package pdftex.def Info: layanan_cloud.png used on input line 84.
+(pdftex.def)             Requested size: 209.58461pt x 193.926pt.
+)
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[11 <C:/Users/agungputra/Documents/Skripshit/layanan_cloud.png>]
+(C:\Users\agungputra\Documents\Skripshit\bab3.tex
 BAB 3.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
@@ -911,7 +937,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--5
 
  []
 
-[10
+[12
 
 
 
@@ -922,7 +948,7 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[11] (C:\Users\agungputra\Documents\Skripshit\bab4.tex
+[13] (C:\Users\agungputra\Documents\Skripshit\bab4.tex
 BAB 4.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
@@ -944,7 +970,7 @@ Underfull \hbox (badness 1484) in paragraph at lines 36--41
 asa In-done-sia.
  []
 
-[12
+[14
 
 
 
@@ -955,7 +981,7 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[13] (C:\Users\agungputra\Documents\Skripshit\bab5.tex
+[15] (C:\Users\agungputra\Documents\Skripshit\bab5.tex
 BAB 5.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
@@ -986,11 +1012,11 @@ Overfull \hbox (27.94829pt too wide) in paragraph at lines 34--36
 [] 
  []
 
-[14
+[16
 
 
 
-] <include.pdf, id=473, 597.51233pt x 845.0471pt>
+] <include.pdf, id=496, 597.51233pt x 845.0471pt>
 File: include.pdf Graphic file (type pdf)
  <use include.pdf>
 Package pdftex.def Info: include.pdf used on input line 57.
@@ -1007,7 +1033,7 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[15] <include.pdf, id=480, page=1, 597.51233pt x 845.0471pt>
+[17] <include.pdf, id=504, page=1, 597.51233pt x 845.0471pt>
 File: include.pdf Graphic file (type pdf)
 
 <use include.pdf, page 1>
@@ -1037,7 +1063,7 @@ File: include.pdf Graphic file (type pdf)
 <use include.pdf, page 1>
 Package pdftex.def Info: include.pdf, page1 used on input line 57.
 (pdftex.def)             Requested size: 597.53821pt x 845.08372pt.
- [16 <C:/Users/agungputra/Documents/Skripshit/include.pdf>]
+ [18 <C:/Users/agungputra/Documents/Skripshit/include.pdf>]
 File: include.pdf Graphic file (type pdf)
  <use include.pdf>
 Package pdftex.def Info: include.pdf used on input line 64.
@@ -1053,7 +1079,7 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[17]
+[19]
 File: include.pdf Graphic file (type pdf)
  <use include.pdf, page 1>
 Package pdftex.def Info: include.pdf, page1 used on input line 64.
@@ -1076,14 +1102,14 @@ File: include.pdf Graphic file (type pdf)
 Package pdftex.def Info: include.pdf, page1 used on input line 64.
 (pdftex.def)             Requested size: 597.53821pt x 845.08372pt.
 
-[18])
+[20])
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[19] (C:\Users\agungputra\Documents\Skripshit\bab6.tex
+[21] (C:\Users\agungputra\Documents\Skripshit\bab6.tex
 BAB 6.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
@@ -1099,7 +1125,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--5
 
  []
 
-) [20
+) [22
 
 
 
@@ -1119,11 +1145,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
  []
 
-) [21
+) [23
 
 
 
-] (C:\Users\agungputra\Documents\Skripshit\pustaka.tex) [22
+] (C:\Users\agungputra\Documents\Skripshit\pustaka.tex) [24
 
 
 
@@ -1174,14 +1200,14 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 115.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 115.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 115.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: AE9A93EB0068DB95343B56F4EAC0CB5D;2830.
+(rerunfilecheck)             Checksum: 19512E349DC2D900CF65F357A91D6A17;2897.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 115.
  ) 
 Here is how much of TeX's memory you used:
- 9348 strings out of 493921
- 140883 string characters out of 3147268
+ 9365 strings out of 493921
+ 141142 string characters out of 3147268
  240899 words of memory out of 3000000
- 12182 multiletter control sequences out of 15000+200000
+ 12191 multiletter control sequences out of 15000+200000
  42270 words of font info for 82 fonts, out of 3000000 for 9000
  910 hyphenation exceptions out of 8191
  44i,18n,45p,1378b,458s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1196,9 +1222,9 @@ gram Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX
  2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
 /urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8
 a.pfb>
-Output written on thesis.pdf (38 pages, 1214043 bytes).
+Output written on thesis.pdf (40 pages, 1245603 bytes).
 PDF statistics:
- 588 PDF objects out of 1000 (max. 8388607)
- 100 named destinations out of 1000 (max. 500000)
- 441 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 612 PDF objects out of 1000 (max. 8388607)
+ 105 named destinations out of 1000 (max. 500000)
+ 459 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,5 +1,7 @@
 cloud computing - http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Cloud_computing.svg/2000px-Cloud_computing.svg.png
 virtual machine - http://ds.iris.edu/media/newsletter/vol14/no2/leaner-greener-data-management-at-iris-dmc-the-journey-of-virtual-machine-consolidation/virtual_machine.png
 docker - http://getcloudify.org/img/docker.png
+autodock - http://biowulf.nih.gov/images/autodock.jpg
+layanan cloud -http://upload.wikimedia.org/wikipedia/commons/3/3c/Cloud_computing_layers.pnghttp://upload.wikimedia.org/wikipedia/commons/3/3c/Cloud_computing_layers.png
 pharmachopore - http://en.wikipedia.org/wiki/Pharmacophore#/media/File:PharmacophoreModel_example.svg
 ligand - http://images.tutorvista.com/cms/images/80/Unidentate-Ligand1.jpg
