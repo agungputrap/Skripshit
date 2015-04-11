@@ -84,3 +84,25 @@ Terdapat 3 jasa yang disediakan dalam \textit{cloud computing} :
 	\includegraphics[scale=0.6]{layanan_cloud.png}
 	\caption{Layanan dalam \textit{cloud computing}}
 \end{figure}
+
+\section{Docker}
+%-----------------------------------------------------------------------------% 
+Virtualisasi merupakan faktor utama pada teknologi \textit{cloud computing} dalam mengoptimisasikan kinerja server sehingga tidak ada sumber daya yang tidak terpakai. Virtualisasi yang dimaksud adalah virtualisasi perangkat keras (\textit{hardware}). Virtualisasi tersebut  memungkinkan "virtual" server yang dapat dibuat sesuai dengan kebutuhan yang diperlukan dan berjalan pada server fisik. Spesifikasi untuk masing masing virtual server dapat disesuaikan dengan kebutuhan aplikasi yang akan dijalankan diatasnnya dan tidak melebihi spesifikasi server fisik. Masing - masing virtual server akan saling terisolasi satu dengan yang lainnya. Virtual 
+
+\begin{figure}
+	\centering
+	\includegraphics[scale=0.6]{vm.png}
+	\caption{Perbandingan virtualisasi pada VM dan container pada Docker}
+\end{figure}
+
+Permasalahan virtualisasi tersebut muncul ketika hendak mengoptimisasikan sumber daya yang ada. Ketika suatu "virtual" server dibuat untuk menjalankan suatu aplikasi yang spesifik, maka keseluruhan sistem perlu dibuat (Sistem operasi, alokasi sumber daya memori, \textit{processor}) termasuk \textit{library} yang dibutuhkan dalam menjalankan sistem / aplikasi tersebut. "virtual" server tersebut akan diatur oleh suatu program \textit{hypervisor} yang menjembatani komunikasi dengan server fisik. Dengan begitu, kapasitas memori dan alokasi sumber daya pada server tidak optimal dalam menjalankan "virtual" server secara bersamaan. 
+
+Docker, \textit{platform}virtualisasi yang dikembangkan oleh Perusahaan Docker menggunakan teknik berbeda dengan virtualisasi \textit{hardware}. Docker menggunakan \textit{Docker engine} sebagai ganti dari \textit{hypervisor}.\textit{Docker engine} dikembangkan berdasarkan \textit{Linux containers} (LXC), dimana level virtualisasi terletak pada sistem operasi. Dengan begitu suatu server linux dapat menjalankan beberapa sistem linux yang saling terisolasi satu sama lain. Kernel pada "virtual" server, dalam hal ini disebut \textit{container} yang dibentuk dengan LXC akan menggunakan kernel yang sama dengan server fisik. Oleh karena itu, \textit{container} yang dibentuk akan lebih kecil dan padat tanpa perlu menginstall sistem secara keseluruhan dari awal. \textit{container} tidak perlu mengalokasikan sumber daya secara tetap dikarenakan \textit{Docker engine} akan mengalokasikan sumber daya berdasarkan aplikasi yang berjalan pada \textit{container}.
+\begin{figure}
+	\centering
+	\includegraphics[scale=0.8]{docker.png}
+	\caption{Logo Docker}
+\end{figure}
+
+Walaupun begitu, untuk masing masing virtualisasi, baik itu yang menggunakan \textit{hypervisor} maupun \textit{Docker engine} pada Docker memiliki kelebihan dan kekurangan masing - masing. \textit{Container} yang dibentuk pada Docker harus menggunakan sistem operasi yang sama dengan server fisik. Untuk saat ini, Docker baru mendukung sistem operasi Linux sebagai \textit{container} dan berjalan pada sistem operasi Linux. Walaupun dapat berjalan pada sistem operasi lainnya, namun penggunaan Docker masih dijalankan dalam "virtual" komputer yang menggunakan sistem operasi Linux pada \textit{Virtual Machine}. Dengan alokasi sumber daya yang tidak tetap (sesuai dengan proses yang berjalan), maka \textit{container} yang terbentuk akan lebih banyak dari "virtual" server yag dihasilkan dengan menggunakan "hypervisor" pada umumnya terikat dengan batasan sumber daya. Namun "virtual" server tersebut lebih beragam dan tidak terikat dengan sistem operasi yang berjalan pada server fisik.   
+         

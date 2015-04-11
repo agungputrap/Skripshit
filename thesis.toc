@@ -21,26 +21,27 @@
 \contentsline {section}{\numberline {2.2}\textit {Molecular Docking}}{7}{section.2.2}
 \contentsline {section}{\numberline {2.3}\textit {Autodock dan Autodock Vina}}{9}{section.2.3}
 \contentsline {section}{\numberline {2.4}\textit {Cloud Computing}}{9}{section.2.4}
-\contentsline {chapter}{\numberline {3}\uppercase {Metodologi Penelitian}}{12}{chapter.3}
-\contentsline {section}{\numberline {3.1}Satu Persamaan}{12}{section.3.1}
-\contentsline {section}{\numberline {3.2}Lebih dari Satu Persamaan}{12}{section.3.2}
-\contentsline {chapter}{\numberline {4}\uppercase {Hasil Penelitian dan Analisis}}{14}{chapter.4}
-\contentsline {section}{\numberline {4.1}thesis.tex}{14}{section.4.1}
-\contentsline {section}{\numberline {4.2}laporan\_setting.tex}{14}{section.4.2}
-\contentsline {section}{\numberline {4.3}istilah.tex}{14}{section.4.3}
-\contentsline {section}{\numberline {4.4}hype.indonesia.tex}{14}{section.4.4}
-\contentsline {section}{\numberline {4.5}pustaka.tex}{15}{section.4.5}
-\contentsline {section}{\numberline {4.6}bab[1 - 6].tex}{15}{section.4.6}
-\contentsline {chapter}{\numberline {5}\uppercase {Perintah dalam uithesis.sty}}{16}{chapter.5}
-\contentsline {section}{\numberline {5.1}Mengubah Tampilan Teks}{16}{section.5.1}
-\contentsline {section}{\numberline {5.2}Memberikan Catatan}{16}{section.5.2}
-\contentsline {section}{\numberline {5.3}Menambah Isi Daftar Isi}{17}{section.5.3}
-\contentsline {section}{\numberline {5.4}Memasukan PDF}{17}{section.5.4}
-\contentsline {section}{\numberline {5.5}Membuat Perintah Baru}{21}{section.5.5}
-\contentsline {chapter}{\numberline {6}\uppercase {??}}{22}{chapter.6}
-\contentsline {chapter}{\numberline {7}\uppercase {Kesimpulan dan Saran}}{23}{chapter.7}
-\contentsline {section}{\numberline {7.1}Kesimpulan}{23}{section.7.1}
-\contentsline {section}{\numberline {7.2}Saran}{23}{section.7.2}
-\contentsline {chapter}{Daftar Referensi}{24}{section.7.2}
-\contentsline {chapter}{LAMPIRAN}{1}{section*.21}
-\contentsline {chapter}{Lampiran 1}{2}{section*.22}
+\contentsline {section}{\numberline {2.5}Docker}{11}{section.2.5}
+\contentsline {chapter}{\numberline {3}\uppercase {Metodologi Penelitian}}{14}{chapter.3}
+\contentsline {section}{\numberline {3.1}Satu Persamaan}{14}{section.3.1}
+\contentsline {section}{\numberline {3.2}Lebih dari Satu Persamaan}{14}{section.3.2}
+\contentsline {chapter}{\numberline {4}\uppercase {Hasil Penelitian dan Analisis}}{16}{chapter.4}
+\contentsline {section}{\numberline {4.1}thesis.tex}{16}{section.4.1}
+\contentsline {section}{\numberline {4.2}laporan\_setting.tex}{16}{section.4.2}
+\contentsline {section}{\numberline {4.3}istilah.tex}{16}{section.4.3}
+\contentsline {section}{\numberline {4.4}hype.indonesia.tex}{16}{section.4.4}
+\contentsline {section}{\numberline {4.5}pustaka.tex}{17}{section.4.5}
+\contentsline {section}{\numberline {4.6}bab[1 - 6].tex}{17}{section.4.6}
+\contentsline {chapter}{\numberline {5}\uppercase {Perintah dalam uithesis.sty}}{18}{chapter.5}
+\contentsline {section}{\numberline {5.1}Mengubah Tampilan Teks}{18}{section.5.1}
+\contentsline {section}{\numberline {5.2}Memberikan Catatan}{18}{section.5.2}
+\contentsline {section}{\numberline {5.3}Menambah Isi Daftar Isi}{19}{section.5.3}
+\contentsline {section}{\numberline {5.4}Memasukan PDF}{19}{section.5.4}
+\contentsline {section}{\numberline {5.5}Membuat Perintah Baru}{23}{section.5.5}
+\contentsline {chapter}{\numberline {6}\uppercase {??}}{24}{chapter.6}
+\contentsline {chapter}{\numberline {7}\uppercase {Kesimpulan dan Saran}}{25}{chapter.7}
+\contentsline {section}{\numberline {7.1}Kesimpulan}{25}{section.7.1}
+\contentsline {section}{\numberline {7.2}Saran}{25}{section.7.2}
+\contentsline {chapter}{Daftar Referensi}{26}{section.7.2}
+\contentsline {chapter}{LAMPIRAN}{1}{section*.23}
+\contentsline {chapter}{Lampiran 1}{2}{section*.24}
