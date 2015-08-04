@@ -1,7 +1,18 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
+\contentsline {table}{\numberline {3.1}{\ignorespaces Spesifikasi PC desktop\relax }}{22}{table.caption.20}
+\contentsline {table}{\numberline {3.2}{\ignorespaces Preparasi data pada Autodock dan Autodock Vina\relax }}{23}{table.caption.21}
+\contentsline {table}{\numberline {3.3}{\ignorespaces Pembagian \textit {container} dan data setiap \textit {container}\relax }}{24}{table.caption.22}
 \addvspace {10\p@ }
-\addvspace {10\p@ }
-\addvspace {10\p@ }
+\contentsline {table}{\numberline {4.1}{\ignorespaces Hasil skenario eksperimen pada aplikasi Autodock Vina\relax }}{25}{table.caption.23}
+\contentsline {table}{\numberline {4.2}{\ignorespaces Hasil skenario pada eksperimen Autodock\relax }}{27}{table.caption.27}
+\contentsline {table}{\numberline {4.3}{\ignorespaces Waktu eksekusi Autodock dan Autodock Vina saat 1 \textit {container}\relax }}{30}{table.caption.32}
+\contentsline {table}{\numberline {4.4}{\ignorespaces Persentasi \textit {relative weight} pemanfaatan CPU\relax }}{31}{table.caption.33}
+\contentsline {table}{\numberline {4.5}{\ignorespaces Spesifikasi harga dan \textit {resource cloud computing} yang disediakan oleh Amazon EC2 \cite {cloud_pak hilman}\relax }}{32}{table.caption.34}
+\contentsline {table}{\numberline {4.6}{\ignorespaces Hasil pengukuran \textit {virtual screening} \cite {cloud_pak hilman}\relax }}{32}{table.caption.35}
+\contentsline {table}{\numberline {4.7}{\ignorespaces Waktu yang dibutuhkan dalam memproses 1 buah Molekul berdasarkan tabel 4.6 diatas\relax }}{32}{table.caption.36}
+\contentsline {table}{\numberline {4.8}{\ignorespaces Waktu yang dibutuhkan dalam memproses 1 buah Molekul\relax }}{32}{table.caption.37}
+\contentsline {table}{\numberline {4.9}{\ignorespaces Hasil \textit {virtual screening} yang berjalan pada komputer \textit {native}\relax }}{33}{table.caption.38}
+\contentsline {table}{\numberline {4.10}{\ignorespaces Biaya yang dikeluarkan oleh Bapak Muhammad H. Hilman dalam penelitiannya \cite {cloud_pak hilman}\relax }}{33}{table.caption.39}
 \addvspace {10\p@ }

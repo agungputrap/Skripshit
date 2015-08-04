@@ -17,7 +17,33 @@
 
 % Load konfigurasi LaTeX untuk tipe laporan thesis
 \usepackage{uithesis}
+\usepackage{listings}
+\renewcommand\lstlistingname{\hfill Daftar Kode \hfill}
+\renewcommand\lstlistlistingname{\hfill Daftar Kode \hfill}
+\lstdefinestyle{customc}{
+	belowcaptionskip=1\baselineskip,
+	breaklines=true,
+	frame=L,
+	xleftmargin=\parindent,
+	language=C,
+	showstringspaces=false,
+	basicstyle=\footnotesize\ttfamily,
+	keywordstyle=\bfseries\color{green!40!black},
+	commentstyle=\itshape\color{purple!40!black},
+	identifierstyle=\color{blue},
+	stringstyle=\color{orange},
+}
 
+\lstdefinestyle{customasm}{
+	belowcaptionskip=1\baselineskip,
+	frame=L,
+	xleftmargin=\parindent,
+	language=[x86masm]Assembler,
+	basicstyle=\footnotesize\ttfamily,
+	commentstyle=\itshape\color{purple!40!black},
+}
+
+\lstset{escapechar=@,style=customc}
 
 % Load konfigurasi khusus untuk laporan yang sedang dibuat
 \input{laporan_setting}
@@ -25,6 +51,7 @@
 \include{hype.indonesia}
 % Daftar istilah yang mungkin perlu ditandai 
 \input{istilah}
+
 
 % Awal bagian penulisan laporan
 \begin{document}
@@ -82,6 +109,8 @@
 \clearpage
 \listoftables
 \clearpage
+\lstlistoflistings
+\clearpage
 
 %
 % Gunakan penomeran Arab (1, 2, 3, ...) setelah bagian ini.
@@ -95,8 +124,6 @@
 \include{bab2}
 \include{bab3}
 \include{bab4}
-\include{bab5}
-\include{bab6}
 \include{kesimpulan}
 
 %
@@ -106,9 +133,10 @@
 %
 % Lampiran 
 %
+\pagenumbering{roman}
 \begin{appendix}
 	\include{markLampiran}
-	\setcounter{page}{2}
+	\setcounter{page}{15}
 	\include{lampiran}
 \end{appendix}
 

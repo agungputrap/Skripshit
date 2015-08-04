@@ -1,0 +1,76 @@
+#!/bin/bash
+
+FILES="/percobaan2/*.pdbqt"
+COUNTER_FILE=1
+COUNTER_CONTAINER=1
+NAMA_CONTAINER="vina"
+COUNT=1
+JUMLAH_FILE=0
+LIMIT_FILE=0
+RESIDU_FILE=0
+JUMLAH_CONTAINER=$1
+
+#menghitung banyaknya file yang dicopy kedalam container
+let JUMLAH_FILE=`ls -1 /percobaan2/ | wc -l`
+let LIMIT_FILE=$JUMLAH_FILE/$JUMLAH_CONTAINER
+let RESIDU_FILE=$JUMLAH_FILE%$JUMLAH_CONTAINER
+if [ $RESIDU_FILE -eq 0 ]
+then 
+	let LIMIT_FILE=LIMIT_FILE+0
+else
+	let LIMIT_FILE=LIMIT_FILE+1
+fi
+
+#main method
+for f in $FILES
+do 
+	if [ $COUNTER_FILE -eq 1 ]
+	then 
+		echo "Membuat container" $NAMA_CONTAINER$COUNTER_CONTAINER
+		docker run -i -t --name $NAMA_CONTAINER$COUNTER_CONTAINER -d agungputrap/riset_docker:latest
+		CONTAINER_ID=`docker inspect -f '{{.Id}}' $NAMA_CONTAINER$COUNTER_CONTAINER`
+		echo "ini nomor container = " $CONTAINER_ID
+		cp /3LP1O.pdbqt /var/lib/docker/aufs/diff/$CONTAINER_ID/3LP1O.pdbqt
+		cp /conf.txt /var/lib/docker/aufs/diff/$CONTAINER_ID/conf.txt
+		echo "mengcopy file "$COUNTER_FILE " ke container " $NAMA_CONTAINER$COUNTER_CONTAINER
+		cp $f /var/lib/docker/aufs/diff/$CONTAINER_ID/`basename $f`
+		echo "file dicopy " $COUNT
+		let COUNT=COUNT+1
+		let COUNTER_FILE=COUNTER_FILE+1
+	elif [ $COUNT -eq $JUMLAH_FILE ]
+	then 
+		echo "harusnya nilai terakhir "$COUNT
+		echo "mengcopy file terakhir ke container "$NAMA_CONTAINER$COUNTER_CONTAINER
+		cp $f /var/lib/docker/aufs/diff/$CONTAINER_ID/`basename $f`
+		cp /running_vina /var/lib/docker/aufs/diff/$CONTAINER_ID/running_vina
+		docker exec -d $NAMA_CONTAINER$COUNTER_CONTAINER chmod u+x /running_vina
+		docker exec -d $NAMA_CONTAINER$COUNTER_CONTAINER ./running_vina
+	elif [ $COUNTER_FILE -lt $LIMIT_FILE ]
+	then 
+		echo "mengcopy file "$COUNTER_FILE" ke container "$NAMA_CONTAINER$COUNTER_CONTAINER
+		cp $f /var/lib/docker/aufs/diff/$CONTAINER_ID/`basename $f`
+		echo "file dicopy " $COUNT
+		let COUNT=COUNT+1
+		let COUNTER_FILE=COUNTER_FILE+1
+	#case paling terakhir dijalanin
+#	elif [ $COUNT -eq $JUMLAH_FILE ]
+#	then 
+#		echo "harusnya nilai terakhir "$COUNT
+#		echo "mengcopy file terakhir ke container"$NAMA_CONTAINER$COUNTER_CONTAINER
+#		cp $f /var/lib/docker/aufs/diff/$CONTAINER_ID/`basename $f`
+#		cp /running_vina /var/lib/docker/aufs/$CONTAINER_ID/running_vina
+#		docker exec -d $NAMA_CONTAINER$COUNTER_CONTAINER chmod u+x /running_vina
+#		docker exec -d $NAMA_CONTAINER$COUNTER_CONTAINER ./running_vina
+	else
+		#mengcopy file terakhir dalam suatu container dan menjalankan script dalam container
+		echo "mengcopy file "$COUNTER_FILE" ke container "$NAMA_CONTAINER$COUNTER_CONTAINER
+		cp $f /var/lib/docker/aufs/diff/$CONTAINER_ID/`basename $f`
+		echo "file dicopy "$COUNT
+		let COUNT=COUNT+1
+		cp /running_vina /var/lib/docker/aufs/diff/$CONTAINER_ID/running_vina
+		docker exec -d $NAMA_CONTAINER$COUNTER_CONTAINER chmod u+x /running_vina
+		docker exec -d $NAMA_CONTAINER$COUNTER_CONTAINER ./running_vina
+		let COUNTER_FILE=1
+		let COUNTER_CONTAINER=COUNTER_CONTAINER+1
+	fi
+done

@@ -1,0 +1,10 @@
+#!/bin/bash
+FILES="/*_3LP1O.dpf"
+echo "Waktu mulai " >> logdock.txt
+date >> logdock.txt
+for f in $FILES
+do
+	./autodock/autodock4 -p $f -l `basename $f .dpf`.dlg
+done
+echo "Waktu selesai " >> logdock.txt
+date >> logdock.txt

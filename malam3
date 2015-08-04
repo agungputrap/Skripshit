@@ -1,0 +1,18 @@
+#!/bin/bash
+COUNTER_CONTAINER=1
+COUNTER=0
+NAMA_CONTAINER="dock"
+FILES="/var/lib/docker/aufs/diff/"
+JUMLAH_FILE=$1
+while [ $COUNTER -lt $JUMLAH_FILE ];
+do
+	CONTAINER_ID=`docker inspect -f '{{.Id}}' $NAMA_CONTAINER$COUNTER_CONTAINER`
+	FILEX="$FILES$CONTAINER_ID/logdock*"
+	echo $FILEX
+	for f in $FILEX
+	do
+		docker cp $NAMA_CONTAINER$COUNTER_CONTAINER:`basename $f` /logdock/$NAMA_CONTAINER$COUNTER_CONTAINER/
+		let COUNTER=COUNTER+1
+	done
+	let COUNTER_CONTAINER=COUNTER_CONTAINER+1
+done

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.3.8)  20 MAY 2015 21:35
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.3.8)  17 JUL 2015 21:17
 entering extended mode
 **thesis.tex
 (C:\Users\agungputra\Documents\Skripshit\thesis.tex
@@ -408,6 +408,37 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks25
 \@floatcapt=\box31
 ))
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.sty"
+\lst@mode=\count120
+\lst@gtempboxa=\box32
+\lst@token=\toks26
+\lst@length=\count121
+\lst@currlwidth=\dimen138
+\lst@column=\count122
+\lst@pos=\count123
+\lst@lostspace=\dimen139
+\lst@width=\dimen140
+\lst@newlines=\count124
+\lst@lineno=\count125
+\lst@maxwidth=\dimen141
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count126
+\lst@skipnumbers=\count127
+\lst@framebox=\box33
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.cfg"
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+)
 (C:\Users\agungputra\Documents\Skripshit\laporan_setting.tex)
 \@input{hype.indonesia.aux}
 (C:\Users\agungputra\Documents\Skripshit\hype.indonesia.tex)
@@ -424,36 +455,67 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 (C:\Users\agungputra\Documents\Skripshit\abstract.aux)
 (C:\Users\agungputra\Documents\Skripshit\bab1.aux)
 (C:\Users\agungputra\Documents\Skripshit\bab2.aux)
-(C:\Users\agungputra\Documents\Skripshit\bab3.aux)
-(C:\Users\agungputra\Documents\Skripshit\bab4.aux)
-(C:\Users\agungputra\Documents\Skripshit\bab5.aux)
-(C:\Users\agungputra\Documents\Skripshit\bab6.aux)
-(C:\Users\agungputra\Documents\Skripshit\kesimpulan.aux)
+(C:\Users\agungputra\Documents\Skripshit\bab3.aux
+
+LaTeX Warning: Label `my-label' multiply defined.
+
+) (C:\Users\agungputra\Documents\Skripshit\bab4.aux
+
+LaTeX Warning: Label `my-label' multiply defined.
+
+
+LaTeX Warning: Label `my-label' multiply defined.
+
+
+LaTeX Warning: Label `my-label' multiply defined.
+
+
+LaTeX Warning: Label `my-label' multiply defined.
+
+
+LaTeX Warning: Label `my-label' multiply defined.
+
+
+LaTeX Warning: Label `my-label' multiply defined.
+
+
+LaTeX Warning: Label `my-label' multiply defined.
+
+
+LaTeX Warning: Label `my-label' multiply defined.
+
+
+LaTeX Warning: Label `my-label' multiply defined.
+
+
+LaTeX Warning: Label `my-label' multiply defined.
+
+) (C:\Users\agungputra\Documents\Skripshit\kesimpulan.aux)
 (C:\Users\agungputra\Documents\Skripshit\pustaka.aux)
 (C:\Users\agungputra\Documents\Skripshit\markLampiran.aux)
 (C:\Users\agungputra\Documents\Skripshit\lampiran.aux))
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMS/pzccm/m/n on input line 30.
-LaTeX Font Info:    Try loading font information for OMS+pzccm on input line 30
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OMS/pzccm/m/n on input line 57.
+LaTeX Font Info:    Try loading font information for OMS+pzccm on input line 57
 .
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omspzccm.fd"
 File: omspzccm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/pzccm.
 )
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-\AtBeginShipoutBox=\box32
-Package hyperref Info: Link coloring OFF on input line 30.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+\AtBeginShipoutBox=\box34
+Package hyperref Info: Link coloring OFF on input line 57.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -461,11 +523,11 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count120
+\c@section@level=\count128
 )
-LaTeX Info: Redefining \ref on input line 30.
-LaTeX Info: Redefining \pageref on input line 30.
-LaTeX Info: Redefining \nameref on input line 30.
+LaTeX Info: Redefining \ref on input line 57.
+LaTeX Info: Redefining \pageref on input line 57.
+LaTeX Info: Redefining \nameref on input line 57.
 
 (C:\Users\agungputra\Documents\Skripshit\thesis.out)
 (C:\Users\agungputra\Documents\Skripshit\thesis.out)
@@ -473,17 +535,17 @@ LaTeX Info: Redefining \nameref on input line 30.
 
 ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count121
-\scratchdimen=\dimen138
-\scratchbox=\box33
-\nofMPsegments=\count122
-\nofMParguments=\count123
-\everyMPshowfont=\toks26
-\MPscratchCnt=\count124
-\MPscratchDim=\dimen139
-\MPnumerator=\count125
-\makeMPintoPDFobject=\count126
-\everyMPtoPDFconversion=\toks27
+\scratchcounter=\count129
+\scratchdimen=\dimen142
+\scratchbox=\box35
+\nofMPsegments=\count130
+\nofMParguments=\count131
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count132
+\MPscratchDim=\dimen143
+\MPnumerator=\count133
+\makeMPintoPDFobject=\count134
+\everyMPtoPDFconversion=\toks28
 )
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -521,9 +583,11 @@ LaTeX Info: Redefining \nameref on input line 30.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
+Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
+\c@lstlisting=\count135
 (C:\Users\agungputra\Documents\Skripshit\sampul.tex
-<pics/makara.png, id=187, 154.86429pt x 154.34807pt>
+<pics/makara.png, id=199, 154.86429pt x 154.34807pt>
 File: pics/makara.png Graphic file (type png)
  <use pics/makara.png>
 Package pdftex.def Info: pics/makara.png used on input line 14.
@@ -592,7 +656,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 22--23
 
 ])
 (C:\Users\agungputra\Documents\Skripshit\pengesahan_sidang.tex
-Overfull \hbox (40.45895pt too wide) in paragraph at lines 13--21
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 8.
+[4
+
+
+]
+Overfull \hbox (14.74275pt too wide) in paragraph at lines 13--21
 [] 
  []
 
@@ -613,63 +689,39 @@ Underfull \hbox (badness 10000) in paragraph at lines 24--28
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 35--45
-
+Overfull \hbox (73.13773pt too wide) in paragraph at lines 35--43
+[][] 
  []
 
 
-Overfull \hbox (16.19841pt too wide) in paragraph at lines 46--47
-[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 46--47
+Underfull \hbox (badness 10000) in paragraph at lines 35--43
 
  []
 
-[4
-
-
+[5
 
 ])
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 62.
+(hyperref)                removing `\uppercase' on input line 89.
 
-(C:\Users\agungputra\Documents\Skripshit\pengantar.tex
-<pics/creative_common.png, id=214, 759.83875pt x 645.41125pt>
-File: pics/creative_common.png Graphic file (type png)
-
-<use pics/creative_common.png>
-Package pdftex.def Info: pics/creative_common.png used on input line 28.
-(pdftex.def)             Requested size: 294.77274pt x 250.37987pt.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 29.
- [5
+(C:\Users\agungputra\Documents\Skripshit\pengantar.tex [6
 
 
 
- <C:/Users/agungputra/Documents/Skripshit/pics/creative_common.png (PNG copy)>]
-
-<pics/mark.png, id=230, 336.25626pt x 66.2475pt>
-File: pics/mark.png Graphic file (type png)
- <use pics/mark.png>
-Package pdftex.def Info: pics/mark.png used on input line 61.
-(pdftex.def)             Requested size: 215.10016pt x 42.37802pt.
-)
+])
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[6 <C:/Users/agungputra/Documents/Skripshit/pics/mark.png (PNG copy)>]
-(C:\Users\agungputra\Documents\Skripshit\persetujuan_publikasi.tex
+[7] (C:\Users\agungputra\Documents\Skripshit\persetujuan_publikasi.tex
 Underfull \hbox (badness 10000) in paragraph at lines 30--36
 
  []
 
-[7
+[8
 
 
 
@@ -678,37 +730,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--17
 
  []
 
-
-Overfull \hbox (0.85362pt too wide) in paragraph at lines 20--21
- []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 20--21
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 20--21
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 24--27
-[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 24--27
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 24--27
-
- []
-
-[8
+[9
 
 
 
@@ -717,31 +739,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--17
 
  []
 
-
-Overfull \hbox (0.85362pt too wide) in paragraph at lines 20--21
- [] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 20--21
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 24--26
-[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 24--26
-
- []
-
-[9
+[10
 
 
 
-]) (C:\Users\agungputra\Documents\Skripshit\thesis.toc [10
+]) (C:\Users\agungputra\Documents\Skripshit\thesis.toc [11
 
 
 ])
@@ -753,40 +755,82 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[11] (C:\Users\agungputra\Documents\Skripshit\thesis.lof)
+[12] (C:\Users\agungputra\Documents\Skripshit\thesis.lof)
 \tf@lof=\write5
- [12
-
-
-]
-(C:\Users\agungputra\Documents\Skripshit\thesis.lot)
-\tf@lot=\write6
  [13
 
 
 ]
-(C:\Users\agungputra\Documents\Skripshit\bab1.tex
+(C:\Users\agungputra\Documents\Skripshit\thesis.lot
+Underfull \hbox (badness 3019) in paragraph at lines 14--14
+ [][] [][]\OT1/ptm/m/n/12 Waktu yang dibu-tuhkan dalam mem-proses 1 buah Moleku
+l 
+ []
+
+)
+\tf@lot=\write6
+ [14
+
+
+] (C:\Users\agungputra\Documents\Skripshit\thesis.lol
+Overfull \hbox (3.4076pt too wide) detected at line 1
+ [][]\OT1/ptm/m/n/12 xviii[]
+ []
+
+
+Overfull \hbox (3.4076pt too wide) detected at line 6
+ [][]\OT1/ptm/m/n/12 xxiii[]
+ []
+
+
+Overfull \hbox (2.43584pt too wide) detected at line 7
+ [][]\OT1/ptm/m/n/12 xxiv[]
+ []
+
+
+Overfull \hbox (2.73584pt too wide) detected at line 8
+ [][]\OT1/ptm/m/n/12 xxvi[]
+ []
+
+
+Overfull \hbox (6.07172pt too wide) detected at line 9
+ [][]\OT1/ptm/m/n/12 xxvii[]
+ []
+
+
+Overfull \hbox (6.07172pt too wide) detected at line 10
+ [][]\OT1/ptm/m/n/12 xxvii[]
+ []
+
+)
+\tf@lol=\write7
+ [15
+
+
+] (C:\Users\agungputra\Documents\Skripshit\bab1.tex
 BAB 1.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 3.
 
-
-Underfull \hbox (badness 1117) in paragraph at lines 14--15
-\OT1/ptm/m/n/12 obat se-cara mod-ern. \OT1/ptm/m/it/12 Drug dis-cov-ery \OT1/pt
-m/m/n/12 meru-pakan run-tu-tan ske-nario pan-jang
- []
-
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
+(Font)              Font shape `OMS/pzccm/m/n' tried instead on input line 16.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.15 
-      [1
+l.21 	\item B
+             agaimana penyakit tersebut mempengaruhi \textit{host}(tubuh yan...
+[1
 
 
 
 ]
+Underfull \hbox (badness 3815) in paragraph at lines 21--22
+[]\OT1/ptm/m/n/12 Bagaimana penyakit terse-but mem-pen-garuhi \OT1/ptm/m/it/12 
+host\OT1/ptm/m/n/12 (tubuh yang terkena
+ []
+
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
  Make it at least 14.49998pt.
@@ -807,10 +851,7 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[4]
-LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
-(Font)              Font shape `OMS/pzccm/m/n' tried instead on input line 56.
-)
+[4])
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
  Make it at least 14.49998pt.
@@ -825,26 +866,54 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <14.4> not available
 (Font)              Font shape `OT1/ptm/b/it' tried instead on input line 6.
-<siklus_dd.png, id=415, 773.13844pt x 348.55219pt>
-File: siklus_dd.png Graphic file (type png)
- <use siklus_dd.png>
-Package pdftex.def Info: siklus_dd.png used on input line 13.
-(pdftex.def)             Requested size: 309.2499pt x 139.4184pt.
- [6
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 18.
+
+Underfull \hbox (badness 2126) in paragraph at lines 23--26
+\OT1/ptm/m/n/12 Setelah peneliti mema-hami penyakit dan el-e-men yang mem-pen-g
+aruhi
+ []
+
+[6
 
 
 
 ]
-<receptor.png, id=422, 513.92pt x 289.08pt>
-File: receptor.png Graphic file (type png)
- <use receptor.png>
-Package pdftex.def Info: receptor.png used on input line 19.
-(pdftex.def)             Requested size: 256.95937pt x 144.53964pt.
+Underfull \hbox (badness 2635) in paragraph at lines 37--38
+[]\OT1/ptm/b/it/12 High-throughput Screen-ing\OT1/ptm/m/n/12 , de-ngan me-man-f
+aatkan tenaga kom-
+ []
 
-<pharmacophore.png, id=423, 803.0pt x 645.41125pt>
+<siklus_dd.png, id=568, 507.39563pt x 453.19313pt>
+File: siklus_dd.png Graphic file (type png)
+ <use siklus_dd.png>
+Package pdftex.def Info: siklus_dd.png used on input line 47.
+(pdftex.def)             Requested size: 304.43973pt x 271.91797pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[7] <molecular_docking.png, id=578, 322.95656pt x 103.13531pt>
+File: molecular_docking.png Graphic file (type png)
+
+<use molecular_docking.png>
+Package pdftex.def Info: molecular_docking.png used on input line 53.
+(pdftex.def)             Requested size: 322.95576pt x 103.13504pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[8 <C:/Users/agungputra/Documents/Skripshit/siklus_dd.png>]
+<pharmacophore.png, id=591, 803.0pt x 645.41125pt>
 File: pharmacophore.png Graphic file (type png)
  <use pharmacophore.png>
-Package pdftex.def Info: pharmacophore.png used on input line 25.
+Package pdftex.def Info: pharmacophore.png used on input line 59.
 (pdftex.def)             Requested size: 240.90186pt x 193.62486pt.
 
 
@@ -853,12 +922,12 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[7 <C:/Users/agungputra/Documents/Skripshit/siklus_dd.png> <C:/Users/agungputra
-/Documents/Skripshit/receptor.png>]
-<docking.png, id=430, 246.1697pt x 216.05719pt>
+[9 <C:/Users/agungputra/Documents/Skripshit/molecular_docking.png> <C:/Users/ag
+ungputra/Documents/Skripshit/pharmacophore.png>]
+<docking.png, id=605, 246.1697pt x 216.05719pt>
 File: docking.png Graphic file (type png)
  <use docking.png>
-Package pdftex.def Info: docking.png used on input line 37.
+Package pdftex.def Info: docking.png used on input line 71.
 (pdftex.def)             Requested size: 246.16908pt x 216.05664pt.
 
 
@@ -867,31 +936,16 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[8 <C:/Users/agungputra/Documents/Skripshit/pharmacophore.png>]
-<molecular_docking.png, id=436, 322.95656pt x 103.13531pt>
-File: molecular_docking.png Graphic file (type png)
-
-<use molecular_docking.png>
-Package pdftex.def Info: molecular_docking.png used on input line 44.
-(pdftex.def)             Requested size: 322.95576pt x 103.13504pt.
-
-Underfull \hbox (badness 2486) in paragraph at lines 47--48
+[10 <C:/Users/agungputra/Documents/Skripshit/docking.png>]
+Underfull \hbox (badness 2486) in paragraph at lines 77--78
 []\OT1/ptm/m/n/12 Dalam per-cobaan ini penulis me-man-faatkan apli-kasi \OT1/pt
 m/m/it/12 molec-u-lar dock-ing
  []
 
-
-Package Fancyhdr Warning: \headheight is too small (0.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[9 <C:/Users/agungputra/Documents/Skripshit/docking.png> <C:/Users/agungputra/D
-ocuments/Skripshit/molecular_docking.png>]
-<autodock.jpg, id=443, 304.13625pt x 74.2775pt>
+<autodock.jpg, id=623, 304.13625pt x 74.2775pt>
 File: autodock.jpg Graphic file (type jpg)
  <use autodock.jpg>
-Package pdftex.def Info: autodock.jpg used on input line 56.
+Package pdftex.def Info: autodock.jpg used on input line 86.
 (pdftex.def)             Requested size: 304.1355pt x 74.27731pt.
 
 
@@ -900,24 +954,44 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[10 <C:/Users/agungputra/Documents/Skripshit/autodock.jpg>]
+[11 <C:/Users/agungputra/Documents/Skripshit/autodock.jpg>]
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[11] <layanan_cloud.png, id=453, 349.305pt x 323.2075pt>
+[12]
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[13] <layanan_cloud.png, id=652, 349.305pt x 323.2075pt>
 File: layanan_cloud.png Graphic file (type png)
 
 <use layanan_cloud.png>
-Package pdftex.def Info: layanan_cloud.png used on input line 84.
+Package pdftex.def Info: layanan_cloud.png used on input line 119.
 (pdftex.def)             Requested size: 209.58461pt x 193.926pt.
- <vm.png, id=454, 454.69875pt x 251.43938pt>
-File: vm.png Graphic file (type png)
 
-<use vm.png>
-Package pdftex.def Info: vm.png used on input line 94.
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[14 <C:/Users/agungputra/Documents/Skripshit/layanan_cloud.png>]
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[15] <vm.png, id=674, 454.69875pt x 251.43938pt>
+File: vm.png Graphic file (type png)
+ <use vm.png>
+Package pdftex.def Info: vm.png used on input line 157.
 (pdftex.def)             Requested size: 272.82135pt x 150.86478pt.
 
 
@@ -926,137 +1000,53 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[12 <C:/Users/agungputra/Documents/Skripshit/layanan_cloud.png>]
-<docker.png, id=460, 231.264pt x 192.72pt>
+[16] <docker.png, id=684, 231.264pt x 192.72pt>
 File: docker.png Graphic file (type png)
  <use docker.png>
-Package pdftex.def Info: docker.png used on input line 103.
+Package pdftex.def Info: docker.png used on input line 163.
 (pdftex.def)             Requested size: 185.01144pt x 154.1762pt.
 
-Underfull \hbox (badness 1320) in paragraph at lines 100--105
-[]\OT1/ptm/m/n/12 Docker, \OT1/ptm/m/it/12 plat-form\OT1/ptm/m/n/12 virtualisas
-i yang dikem-bangkan oleh Pe-rusa-haan Docker
- []
-
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[13 <C:/Users/agungputra/Documents/Skripshit/vm.png>])
+[17 <C:/Users/agungputra/Documents/Skripshit/vm.png> <C:/Users/agungputra/Docum
+ents/Skripshit/docker.png>])
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[14 <C:/Users/agungputra/Documents/Skripshit/docker.png>]
-(C:\Users\agungputra\Documents\Skripshit\bab3.tex
+[18] (C:\Users\agungputra\Documents\Skripshit\bab3.tex
 BAB 3.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 2.
 
+<workflow_skripsi.PNG, id=699, 492.33937pt x 289.08pt>
+File: workflow_skripsi.PNG Graphic file (type png)
 
-Underfull \hbox (badness 10000) in paragraph at lines 4--5
-[]
- []
+<use workflow_skripsi.PNG>
+Package pdftex.def Info: workflow_skripsi.PNG used on input line 16.
+(pdftex.def)             Requested size: 492.33815pt x 289.07928pt.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 4--5
-
- []
-
-[15
-
-
-
-])
-
-Package Fancyhdr Warning: \headheight is too small (0.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[16] (C:\Users\agungputra\Documents\Skripshit\bab4.tex
-BAB 4.
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 2.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4--5
-[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4--5
-
- []
-
-
-Underfull \hbox (badness 1484) in paragraph at lines 36--41
-\OT1/ptm/m/n/12 Berkas ini berisi cara pe-meng-galan be-be-rapa kata dalam ba-h
-asa In-done-sia.
- []
-
-[17
-
-
-
-])
-
-Package Fancyhdr Warning: \headheight is too small (0.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[18] (C:\Users\agungputra\Documents\Skripshit\bab5.tex
-BAB 5.
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 2.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4--5
-[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4--5
-
- []
-
-LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 16.
-
-LaTeX Warning: there is no bold Symbol font on input line 20.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 21--22
-
- []
-
-
-Overfull \hbox (27.94829pt too wide) in paragraph at lines 34--36
-[] 
+Overfull \hbox (93.99956pt too wide) in paragraph at lines 16--17
+ [][] 
  []
 
 [19
 
 
 
-] <include.pdf, id=515, 597.51233pt x 845.0471pt>
-File: include.pdf Graphic file (type pdf)
- <use include.pdf>
-Package pdftex.def Info: include.pdf used on input line 57.
-(pdftex.def)             Requested size: 597.51086pt x 845.04504pt.
-File: include.pdf Graphic file (type pdf)
-
-<use include.pdf>
-Package pdftex.def Info: include.pdf used on input line 57.
-(pdftex.def)             Requested size: 597.51086pt x 845.04504pt.
+ <C:/Users/agungputra/Documents/Skripshit/workflow_skripsi.PNG>]
+<workflow.PNG, id=705, 365.11406pt x 438.8897pt>
+File: workflow.PNG Graphic file (type png)
+ <use workflow.PNG>
+Package pdftex.def Info: workflow.PNG used on input line 37.
+(pdftex.def)             Requested size: 365.11316pt x 438.88863pt.
 
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -1064,46 +1054,14 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[20] <include.pdf, id=522, page=1, 597.51233pt x 845.0471pt>
-File: include.pdf Graphic file (type pdf)
-
-<use include.pdf, page 1>
-Package pdftex.def Info: include.pdf, page1 used on input line 57.
-(pdftex.def)             Requested size: 597.51086pt x 845.04504pt.
-File: include.pdf Graphic file (type pdf)
- <use include.pdf, page 1>
-Package pdftex.def Info: include.pdf, page1 used on input line 57.
-(pdftex.def)             Requested size: 597.53821pt x 845.08372pt.
-File: include.pdf Graphic file (type pdf)
- <use include.pdf, page 1>
-Package pdftex.def Info: include.pdf, page1 used on input line 57.
-(pdftex.def)             Requested size: 597.53821pt x 845.08372pt.
-File: include.pdf Graphic file (type pdf)
-
-<use include.pdf, page 1>
-Package pdftex.def Info: include.pdf, page1 used on input line 57.
-(pdftex.def)             Requested size: 597.53821pt x 845.08372pt.
-
+[20]
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-File: include.pdf Graphic file (type pdf)
-<use include.pdf, page 1>
-Package pdftex.def Info: include.pdf, page1 used on input line 57.
-(pdftex.def)             Requested size: 597.53821pt x 845.08372pt.
- [21 <C:/Users/agungputra/Documents/Skripshit/include.pdf>]
-File: include.pdf Graphic file (type pdf)
- <use include.pdf>
-Package pdftex.def Info: include.pdf used on input line 64.
-(pdftex.def)             Requested size: 597.51086pt x 845.04504pt.
-File: include.pdf Graphic file (type pdf)
- <use include.pdf>
-Package pdftex.def Info: include.pdf used on input line 64.
-(pdftex.def)             Requested size: 597.51086pt x 845.04504pt.
-
+[21 <C:/Users/agungputra/Documents/Skripshit/workflow.PNG>]
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
  Make it at least 14.49998pt.
@@ -1111,27 +1069,15 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [22]
-File: include.pdf Graphic file (type pdf)
- <use include.pdf, page 1>
-Package pdftex.def Info: include.pdf, page1 used on input line 64.
-(pdftex.def)             Requested size: 597.51086pt x 845.04504pt.
-File: include.pdf Graphic file (type pdf)
- <use include.pdf, page 1>
-Package pdftex.def Info: include.pdf, page1 used on input line 64.
-(pdftex.def)             Requested size: 597.53821pt x 845.08372pt.
-File: include.pdf Graphic file (type pdf)
+Overfull \hbox (65.72118pt too wide) in paragraph at lines 95--103
+[][] 
+ []
 
-<use include.pdf, page 1>
-Package pdftex.def Info: include.pdf, page1 used on input line 64.
-(pdftex.def)             Requested size: 597.53821pt x 845.08372pt.
-File: include.pdf Graphic file (type pdf)
- <use include.pdf, page 1>
-Package pdftex.def Info: include.pdf, page1 used on input line 64.
-(pdftex.def)             Requested size: 597.53821pt x 845.08372pt.
-File: include.pdf Graphic file (type pdf)
- <use include.pdf, page 1>
-Package pdftex.def Info: include.pdf, page1 used on input line 64.
-(pdftex.def)             Requested size: 597.53821pt x 845.08372pt.
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
 
 [23])
 
@@ -1140,75 +1086,513 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[24] (C:\Users\agungputra\Documents\Skripshit\bab6.tex
-BAB 6.
+[24] (C:\Users\agungputra\Documents\Skripshit\bab4.tex
+BAB 4.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 2.
 
+<tercepat_vina.PNG, id=732, 435.12563pt x 261.22594pt>
+File: tercepat_vina.PNG Graphic file (type png)
+ <use tercepat_vina.PNG>
+Package pdftex.def Info: tercepat_vina.PNG used on input line 34.
+(pdftex.def)             Requested size: 435.12456pt x 261.22528pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 4--5
-[]
+Overfull \hbox (36.78596pt too wide) in paragraph at lines 34--35
+ [][] 
+ []
+
+[25
+
+
+
+] <terlama_vina.PNG, id=737, 440.39531pt x 270.25969pt>
+File: terlama_vina.PNG Graphic file (type png)
+
+<use terlama_vina.PNG>
+Package pdftex.def Info: terlama_vina.PNG used on input line 39.
+(pdftex.def)             Requested size: 440.39423pt x 270.25902pt.
+
+Overfull \hbox (42.05563pt too wide) in paragraph at lines 39--40
+[][] 
+ []
+
+<ratarata_vina.PNG, id=738, 436.63126pt x 293.59688pt>
+File: ratarata_vina.PNG Graphic file (type png)
+ <use ratarata_vina.PNG>
+Package pdftex.def Info: ratarata_vina.PNG used on input line 44.
+(pdftex.def)             Requested size: 436.63019pt x 293.59615pt.
+
+Overfull \hbox (38.2916pt too wide) in paragraph at lines 44--45
+[][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4--5
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
 
+[26 <C:/Users/agungputra/Documents/Skripshit/tercepat_vina.PNG> <C:/Users/agung
+putra/Documents/Skripshit/terlama_vina.PNG>]
+<tercepat_dock.PNG, id=745, 435.87843pt x 256.70906pt>
+File: tercepat_dock.PNG Graphic file (type png)
+ <use tercepat_dock.PNG>
+Package pdftex.def Info: tercepat_dock.PNG used on input line 69.
+(pdftex.def)             Requested size: 435.87737pt x 256.70842pt.
+
+Overfull \hbox (37.53877pt too wide) in paragraph at lines 69--70
+ [][] 
  []
 
-) [25
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[27 <C:/Users/agungputra/Documents/Skripshit/ratarata_vina.PNG>]
+<terlama_dock.PNG, id=752, 437.38406pt x 258.21469pt>
+File: terlama_dock.PNG Graphic file (type png)
+ <use terlama_dock.PNG>
+Package pdftex.def Info: terlama_dock.PNG used on input line 74.
+(pdftex.def)             Requested size: 437.38298pt x 258.21405pt.
+
+Overfull \hbox (39.04439pt too wide) in paragraph at lines 74--75
+[][] 
+ []
+
+<ratarata_dock.PNG, id=753, 439.6425pt x 268.75406pt>
+File: ratarata_dock.PNG Graphic file (type png)
+ <use ratarata_dock.PNG>
+Package pdftex.def Info: ratarata_dock.PNG used on input line 79.
+(pdftex.def)             Requested size: 439.64142pt x 268.7534pt.
+
+Overfull \hbox (41.30283pt too wide) in paragraph at lines 79--80
+[][] 
+ []
 
 
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
 
-] (C:\Users\agungputra\Documents\Skripshit\kesimpulan.tex
-BAB 7.
+[28 <C:/Users/agungputra/Documents/Skripshit/tercepat_dock.PNG> <C:/Users/agung
+putra/Documents/Skripshit/terlama_dock.PNG>]
+<comparison_dockvina.PNG, id=761, 262.73157pt x 198.7425pt>
+File: comparison_dockvina.PNG Graphic file (type png)
+
+<use comparison_dockvina.PNG>
+Package pdftex.def Info: comparison_dockvina.PNG used on input line 90.
+(pdftex.def)             Requested size: 262.73091pt x 198.742pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[29 <C:/Users/agungputra/Documents/Skripshit/ratarata_dock.PNG> <C:/Users/agung
+putra/Documents/Skripshit/comparison_dockvina.PNG>]
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[30]
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[31]
+Underfull \hbox (badness 1810) in paragraph at lines 156--167
+[]\OT1/ptm/m/n/12 Tabel di-atas meru-pakan hasil waktu yang diper-oleh dalam me
+n-jalankan
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[32]
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[33]
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[34])
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[35] (C:\Users\agungputra\Documents\Skripshit\kesimpulan.tex
+BAB 5.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 2.
 
+[36
 
-Underfull \hbox (badness 10000) in paragraph at lines 5--6
-[]
+
+
+])
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[37] (C:\Users\agungputra\Documents\Skripshit\pustaka.tex
+Underfull \hbox (badness 2875) in paragraph at lines 11--12
+[]\OT1/ptm/m/n/12 Muhammad H. Hilman.Juni 2010.\OT1/ptm/m/it/12 "Eval-u-asi Kin
+-erja Autodock 4.2 dan
  []
 
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ì in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ì in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ì in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ì in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ì in font ptmr7t!
 
-Underfull \hbox (badness 10000) in paragraph at lines 5--6
-
+Underfull \hbox (badness 10000) in paragraph at lines 40--41
+[]\OT1/ptm/m/it/12 Drug de-sign\OT1/ptm/m/n/12 . []$http : / / strbio . biochem
+ . nchu . edu . tw / classes / special[]topics[]$
  []
 
-) [26
-
-
-
-] (C:\Users\agungputra\Documents\Skripshit\pustaka.tex) [27
+[38
 
 
 
 ]
-(C:\Users\agungputra\Documents\Skripshit\markLampiran.texpdfTeX warning (ext4):
- destination with the same identifier (name{page.1}) has been already used, dup
-licate ignored
+Underfull \hbox (badness 1394) in paragraph at lines 46--47
+$\OT1/ptm/m/n/12 /media / File : PharmacophoreModel[]example . svg$[] di-ak-ses
+ 3 Juni 2015 pukul
+ []
+
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ì in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ì in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ì in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ì in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ì in font ptmr7t!
+
+Underfull \hbox (badness 1365) in paragraph at lines 71--72
+[]\OT1/ptm/m/n/12 Logo Autodock. []$http : / / www . kdm . wcss . wroc . pl / w
+ / images / thumb / Autodock[]$
+ []
+
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ì in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ì in font ptmr7t!
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[39]
+Underfull \hbox (badness 3492) in paragraph at lines 92--93
+[]\OT1/ptm/m/n/12 IBM Global Ed-u-ca-tion White Pa-per.October 2007. \OT1/ptm/m
+/it/12 "Vir-tu-al-iza-tion in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--93
+\OT1/ptm/m/it/12 Ed-u-ca-tion"\OT1/ptm/m/n/12 .[]$http : / / www-[]07 . ibm . c
+om / solutions / in / education / download /$
+ []
+
+
+Underfull \hbox (badness 3746) in paragraph at lines 101--102
+[]\OT1/ptm/m/n/12 Tobby Baner-jee.November 2014.\OT1/ptm/m/it/12 "LXC vs LXD vs
+ Docker - Mak-ing
+ []
+
+
+Overfull \hbox (21.95218pt too wide) in paragraph at lines 101--102
+$\OT1/ptm/m/n/12 lxc-[]vs-[]lxd-[]vs-[]docker-[]making-[]sense-[]of-[]the-[]rap
+idly-[]evolving-[]container-[]ecosystem/$[].
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--105
+[]\OT1/ptm/m/n/12 Steven J. Vaughan-Nichols.11 Juni 2014.\OT1/ptm/m/it/12 "Dock
+er lib-con-tainer
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--105
+\OT1/ptm/m/it/12 uni-fies Linux con-tainer pow-ers"\OT1/ptm/m/n/12 .[]$http : /
+ / www . zdnet . com / article /$
+ []
+
+
+Underfull \hbox (badness 2662) in paragraph at lines 104--105
+$\OT1/ptm/m/n/12 docker-[]libcontainer-[]unies-[]linux-[]container-[]powers/$[
+]. di-ak-ses 12 Juni 2015
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[40]
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+
+Underfull \hbox (badness 1331) in paragraph at lines 116--118
+[]\OT1/ptm/m/n/12 Arry Yan-uar, Ab-dul Mu-nim , Akma Bertha Aprima Lagho, Rezi 
+Ri-
+ []
+
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+
+Underfull \hbox (badness 1253) in paragraph at lines 120--123
+[]\OT1/ptm/m/n/12 The Scripps Re-search In-sti-tute, Tu-to-rial Autodock 4.2, [
+]$http : / / autodock .$
+ []
+
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+)
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[41] (C:\Users\agungputra\Documents\Skripshit\markLampiran.texpdfTeX warning (e
+xt4): destination with the same identifier (name{page.i}) has been already used
+, duplicate ignored
 <to be read again> 
                    \relax 
 l.13 \end{titlepage}
                      [1
 
 
-]) (C:\Users\agungputra\Documents\Skripshit\lampiran.tex)pdfTeX warning (ext4):
- destination with the same identifier (name{page.2}) has been already used, dup
-licate ignored
+]) (C:\Users\agungputra\Documents\Skripshit\lampiran.tex
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+[]\OT1/ptm/m/n/12 Download file in-sta-lasi, un-tuk win-dows :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+\OT1/ptm/m/n/12 https://github.com/boot2docker/windows-installer/releases/tag/v
+1.7.0
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+\OT1/ptm/m/n/12 sedan-gkan un-tuk Mac OS : https://github.com/boot2docker/osx-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--25
+[]\OT1/ptm/m/n/12 setelah kom-puter kem-bali menyala, ma-sukan per-in-tah `curl
+ -sSL
+ []
+
+
+Underfull \hbox (badness 3525) in paragraph at lines 24--25
+\OT1/ptm/m/n/12 https://get.docker.com/ \OMS/pzccm/m/n/12 j \OT1/ptm/m/n/12 sh`
+ pada ter-mi-nal un-tuk melakukan in-sta-lasi
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.xv}) has
+ been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.112 	\include{lampiran}
-                          [2
+l.25 \end{enumerate}
+                     [15
 
 
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 115.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 115.
+Underfull \hbox (badness 10000) in paragraph at lines 36--38
+\OT1/ptm/m/n/12 Aplikasi Autodock versi 4.2 da-pat diper-oleh pada si-tus resmi
 
-(C:\Users\agungputra\Documents\Skripshit\thesis.aux
+ []
+
+
+Underfull \hbox (badness 5217) in paragraph at lines 36--38
+\OT1/ptm/m/n/12 The Scripps Re-search In-sti-tute un-tuk apli-kasi Autodock ver
+si 4.2,
+ []
+
+
+Underfull \hbox (badness 2351) in paragraph at lines 36--38
+\OT1/ptm/m/n/12 http://autodock.scripps.edu/. Un-duh Autodock versi 4.2 versi s
+ource
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[16]
+Underfull \hbox (badness 3039) in paragraph at lines 51--54
+\OT1/ptm/m/n/12 Aplikasi Autodock Vina versi 1.1 da-pat diper-oleh pada si-tus 
+resmi
+ []
+
+
+Underfull \hbox (badness 6625) in paragraph at lines 51--54
+\OT1/ptm/m/n/12 The Scripps Re-search In-sti-tute un-tuk Autodock Vina versi 1.
+1 ,
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[17] <autogrid4.PNG, id=912, 201.00093pt x 87.32625pt>
+File: autogrid4.PNG Graphic file (type png)
+ <use autogrid4.PNG>
+Package pdftex.def Info: autogrid4.PNG used on input line 69.
+(pdftex.def)             Requested size: 201.00043pt x 87.32603pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--76
+
+ []
+
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
+nput line 76.
+
+Package Listings Warning: Text dropped after begin of listing on input line 76.
+
+
+LaTeX Font Info:    Font shape `OT1/pcr/bx/n' in size <10> not available
+(Font)              Font shape `OT1/pcr/b/n' tried instead on input line 77.
+[18
+
+ <C:/Users/agungputra/Documents/Skripshit/autogrid4.PNG>]
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[19]
+Underfull \hbox (badness 10000) in paragraph at lines 104--105
+
+ []
+
+[20
+
+]
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[21]
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[22]
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[23]
+Underfull \hbox (badness 10000) in paragraph at lines 245--246
+
+ []
+
+[24
+
+]
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[25]
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[26]
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[27])
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[28]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 143.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 143.
+ (C:\Users\agungputra\Documents\Skripshit\thesis.aux
 (C:\Users\agungputra\Documents\Skripshit\sampul.aux)
 (C:\Users\agungputra\Documents\Skripshit\judul_dalam.aux)
 (C:\Users\agungputra\Documents\Skripshit\pengesahan.aux)
@@ -1222,40 +1606,38 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 115.
 (C:\Users\agungputra\Documents\Skripshit\bab2.aux)
 (C:\Users\agungputra\Documents\Skripshit\bab3.aux)
 (C:\Users\agungputra\Documents\Skripshit\bab4.aux)
-(C:\Users\agungputra\Documents\Skripshit\bab5.aux)
-(C:\Users\agungputra\Documents\Skripshit\bab6.aux)
 (C:\Users\agungputra\Documents\Skripshit\kesimpulan.aux)
 (C:\Users\agungputra\Documents\Skripshit\pustaka.aux)
 (C:\Users\agungputra\Documents\Skripshit\markLampiran.aux)
 (C:\Users\agungputra\Documents\Skripshit\lampiran.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 115.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 115.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 143.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 143.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: B95F56EB6C6045009505C8855AFE5A8A;2955.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 115.
+(rerunfilecheck)             Checksum: C99E8F99810E4285E3A1BEFEBB925C00;3132.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 143.
  ) 
 Here is how much of TeX's memory you used:
- 9370 strings out of 493921
- 141122 string characters out of 3147268
- 240899 words of memory out of 3000000
- 12192 multiletter control sequences out of 15000+200000
- 42270 words of font info for 82 fonts, out of 3000000 for 9000
- 910 hyphenation exceptions out of 8191
- 44i,18n,45p,1907b,458s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 11364 strings out of 493921
+ 169636 string characters out of 3147268
+ 435517 words of memory out of 3000000
+ 13784 multiletter control sequences out of 15000+200000
+ 31484 words of font info for 62 fonts, out of 3000000 for 9000
+ 913 hyphenation exceptions out of 8191
+ 44i,19n,56p,1941b,1788s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program File
-s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX
- 2.9/fonts/type1/public/amsfonts/cmextra/cmex9.pfb><C:/Program Files/MiKTeX 2.9
-/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
-ype1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
-ic/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/courier/
-ucrr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/symbol/usyr.pfb><C:/Pro
-gram Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX
- 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
-/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8
-a.pfb>
-Output written on thesis.pdf (43 pages, 1114568 bytes).
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX
+ 2.9/fonts/type1/urw/courier/ucrb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
+1/urw/courier/ucrr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utm
+b8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Prog
+ram Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 
+2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on thesis.pdf (72 pages, 1256283 bytes).
 PDF statistics:
- 633 PDF objects out of 1000 (max. 8388607)
- 109 named destinations out of 1000 (max. 500000)
- 467 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1373 PDF objects out of 1440 (max. 8388607)
+ 507 named destinations out of 1000 (max. 500000)
+ 496 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,18 +1,22 @@
-\contentsline {figure}{\numberline {1}{\ignorespaces \textit {Creative Common License 1.0 Generic}\relax }}{v}{figure.caption.8}
-\contentsline {figure}{\numberline {2}{\ignorespaces Dokumen Dibuat dengan PDFLatex\relax }}{vi}{figure.caption.9}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Pemanfaatan komputer sebagai sarana komputasi dalam \textit {drug discovery}\relax }}{7}{figure.caption.12}
-\contentsline {figure}{\numberline {2.2}{\ignorespaces Ilustrasi \textit {ligand}(nomor 1)yang akan terikat dengan \textit {receptor}(nomor 2)\relax }}{7}{figure.caption.13}
-\contentsline {figure}{\numberline {2.3}{\ignorespaces Contoh dari \textit {pharmacophore}\relax }}{8}{figure.caption.14}
-\contentsline {figure}{\numberline {2.4}{\ignorespaces \textit {Proses molecular docking }\relax }}{9}{figure.caption.15}
-\contentsline {figure}{\numberline {2.5}{\ignorespaces \textit {best-fit docking}\relax }}{9}{figure.caption.16}
-\contentsline {figure}{\numberline {2.6}{\ignorespaces Logo Autodock\relax }}{10}{figure.caption.17}
-\contentsline {figure}{\numberline {2.7}{\ignorespaces Layanan dalam \textit {cloud computing}\relax }}{12}{figure.caption.18}
-\contentsline {figure}{\numberline {2.8}{\ignorespaces Perbandingan virtualisasi pada VM dan container pada Docker\relax }}{13}{figure.caption.19}
-\contentsline {figure}{\numberline {2.9}{\ignorespaces Logo Docker\relax }}{14}{figure.caption.20}
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Diagram proses \textit {drug discovery} tradisional dan modern \cite {diagram drug discovery}\relax }}{8}{figure.caption.10}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Ilustrasi \textit {ligand} yang akan terikat dengan \textit {receptor} \cite {gambar MolecularDocking}\relax }}{9}{figure.caption.11}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Contoh dari \textit {pharmacophore} \cite {pharmacophore}\relax }}{9}{figure.caption.12}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces \textit {Proses molecular docking }\cite {MolecularDocking}\relax }}{10}{figure.caption.13}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Logo Autodock \cite {Logo autodock}\relax }}{11}{figure.caption.14}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Layanan dalam \textit {cloud computing} \cite {Layanan cloud}\relax }}{14}{figure.caption.15}
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Perbandingan virtualisasi pada VM dan \textit {container} pada Docker\cite {vmmvscontainer}\relax }}{17}{figure.caption.16}
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Logo Docker\cite {Logo Docker}\relax }}{17}{figure.caption.17}
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Tahapan Penelitian\relax }}{19}{figure.caption.18}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces \textit {Workflow} penelitian\relax }}{21}{figure.caption.19}
 \addvspace {10\p@ }
-\addvspace {10\p@ }
-\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Waktu eksekusi tercepat untuk masing - masing skenario Autodock Vina\relax }}{26}{figure.caption.24}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Waktu eksekusi terlama untuk masing - masing skenario Autodock Vina\relax }}{26}{figure.caption.25}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Grafik dari rata - rata waktu eksekusi masing - masing skenario Autodock Vina\relax }}{27}{figure.caption.26}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Waktu eksekusi tercepat untuk masing - masing skenario Autodock\relax }}{28}{figure.caption.28}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Waktu eksekusi terlama untuk masing - masing skenario Autodock\relax }}{28}{figure.caption.29}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Grafik rata - rata waktu eksekusi masing - masing skenario Autodock\relax }}{29}{figure.caption.30}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Perbandingan waktu \textit {running} pada situs resmi Autodock \cite {autodockvina}\relax }}{29}{figure.caption.31}
 \addvspace {10\p@ }

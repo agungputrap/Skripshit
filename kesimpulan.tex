@@ -1,15 +1,32 @@
 %---------------------------------------------------------------
 \chapter{\kesimpulan}
 %---------------------------------------------------------------
-\todo{Tambahkan kesimpulan dan saran terkait dengan perkerjaan 
-	yang dilakukan.}
+Bab ini merupakan bagian penutup dari laporan tugas akhir. Bagian ini akan menjelaskan kesimpulan dari penelitian yang telah dilakukan beserta kendala yang dihadapi. Selain itu juga akan berisikan saran untuk penelitian terkait yang akan datang. 
 
 
 %---------------------------------------------------------------
 \section{Kesimpulan}
 %---------------------------------------------------------------
+Pada penelitian yang telah dilakukan, terdapat beberapa kesimpulan yang merujuk kepada permasalahan mengapa penelitian ini dilaksanakan :
+\begin{enumerate}
+	\item Dari hasil analisis penelitian didapatkan bahwa waktu yang dibutuhkan dalam menjalankan proses \textit{virtual screening} dengan memanfaatkan \textit{platform} Docker tidak berbeda jauh dengan hasil yang diperoleh dengan yang dijalankan pada jasa \textit{cloud computing} Amazon EC2 dimana Amazon menggunakan \textit{platform} virtualisasi ciptaannya sendiri. Hal ini dapat dilihat pada tabel 4.6 dan tabel 4.7.
+	\item Semakin banyak jumlah container yang digunakan maka waktu yang dihasilkan dalam eksperimen akan semakin cepat. Jumlah data yang terdistribusi untuk masing - masing container akan semakin sedikit pula. Jumlah container yang dapat dibuat tanpa harus dijalankan akan terbatas dengan besarnya kapasitas memori penyimpanan (\textit{hardisk}). Sedangkan jumlah container yang dapat menjalankan \textit{task} tertentu akan terbatas dengan besaranya RAM. 
+	\item Semakin banyak jumlah container, maka semakin kecil nilai \textit{relative weight} untuk setiap container dalam berbagi \textit{resource} CPU. Nilai \textit{relative weight} akan bertambah untuk setiap container jika terdapat container yang \textit{idle} (tidak melakukan apa - apa). Ketika container yang \textit{idle} diberikan suatu \textit{task}, maka nilai \textit{relative weight} akan terbagi secara merata kembali dengan container lainnya.
+	\item Kompleksitas molekul mempengaruhi waktu eksperimen. Semakin kompleks molekul tersebu, semakin lama waktu komputasi yang dilakukan oleh aplikasi Autodock dan Autodock Vina.
+	\item Dengan memanfaatkan \textit{job scheduling} pada komputer, akan memberikan hasil optimal jika dalam suatu mesin dijalankan banyak. program/\textit{task}. Dengan begitu, waktu \textit{idle} yang mungkin terjadi dalam prosesor serta \textit{resource} lainnya dapat diminimalkan. \textit{Overhead} yang dihasilkan akan semakin besar yang berakibat waktu \textit{idle processor} akan semakin kecil. 
+\end{enumerate}
 
+ %---------------------------------------------------------------
+ \section{Kendala}
+ %---------------------------------------------------------------
+ Kendala yang penulis hadapi dalam melaksanakan penelitian ini adalah :
+ \begin{enumerate}
+ 	\item Pendalaman teori \textit{drug discovery} merupakan hal baru bagi penulis dan memakan waktu yang cukup lama.
+ 	\item Dalam menjalankan eksperimen, beberapa kali Lab yang digunakan dalam penelitian mengalamai mati listrik sehingga penulis harus mengulang eksperimen yang gagal. 
+ \end{enumerate} 
 
 %---------------------------------------------------------------
 \section{Saran}
 %---------------------------------------------------------------
+\hspace{0.5cm}Pada penelitian ini, penulis menyarankan untuk penelitian terkait kedepannya untuk menggunakan Autodock Vina. Aplikasi tersebut memberikan kemudahan bagi pengguna pemula dalam menjalankan aplikasi tersebut. Selain itu kemudahan \textit{pre-processing} data yang transparan tidak akan membuat bingung pengguna pemula dibandingkan dengan aplikasi Autodock. Penulis juga berharap adanya penelitian lebih lanjut terkait dengan penelitian ini. Tidak menutup kemungkinan penelitian ini akan menjadi suatu inovasi baru yang dapat diimplementasikan dalam kehidupan sehari - hari. Penulis juga terbuka untuk saran yang membangun untuk dapat diterapkan dalam penelitian selanjutnya.
+

@@ -1,0 +1,10 @@
+#!/bin/bash
+FILES="/*.pdbqt"
+echo "Waktu mulai " >> logvina.txt
+date >> logvina.txt
+for f in $FILES
+do
+	./autodockvina/bin/vina --config conf.txt --ligand `basename $f`
+done
+echo "Waktu selesai " >> logvina.txt
+date >> logvina.txt

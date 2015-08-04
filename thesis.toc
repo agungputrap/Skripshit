@@ -2,12 +2,12 @@
 \contentsline {chapter}{LEMBAR PERSETUJUAN}{ii}{section*.4}
 \contentsline {chapter}{LEMBAR PERNYATAAN ORISINALITAS}{iii}{section*.5}
 \contentsline {chapter}{LEMBAR PENGESAHAN}{iv}{section*.6}
-\contentsline {chapter}{\uppercase {Kata Pengantar}}{v}{section*.7}
-\contentsline {chapter}{LEMBAR PERSETUJUAN PUBLIKASI ILMIAH}{vii}{section*.10}
-\contentsline {chapter}{ABSTRAK}{viii}{section*.11}
-\contentsline {chapter}{Daftar Isi}{x}{section*.11}
-\contentsline {chapter}{Daftar Gambar}{xii}{section*.11}
-\contentsline {chapter}{Daftar Tabel}{xiii}{section*.11}
+\contentsline {chapter}{\uppercase {Kata Pengantar}}{vi}{section*.7}
+\contentsline {chapter}{LEMBAR PERSETUJUAN PUBLIKASI ILMIAH}{viii}{section*.8}
+\contentsline {chapter}{ABSTRAK}{ix}{section*.9}
+\contentsline {chapter}{Daftar Isi}{xi}{section*.9}
+\contentsline {chapter}{Daftar Gambar}{xiii}{section*.9}
+\contentsline {chapter}{Daftar Tabel}{xiv}{section*.9}
 \contentsline {chapter}{\numberline {1}\uppercase {Pendahuluan}}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}Latar Belakang}{1}{section.1.1}
 \contentsline {section}{\numberline {1.2}Permasalahan}{4}{section.1.2}
@@ -17,31 +17,34 @@
 \contentsline {section}{\numberline {1.4}Posisi Penelitian}{4}{section.1.4}
 \contentsline {section}{\numberline {1.5}Sistematika Penulisan}{5}{section.1.5}
 \contentsline {chapter}{\numberline {2}\uppercase {Landasan Teori}}{6}{chapter.2}
-\contentsline {section}{\numberline {2.1}\textit {Computational Drug discovery}}{6}{section.2.1}
-\contentsline {section}{\numberline {2.2}\textit {Molecular Docking}}{8}{section.2.2}
-\contentsline {section}{\numberline {2.3}\textit {Autodock dan Autodock Vina}}{10}{section.2.3}
-\contentsline {section}{\numberline {2.4}\textit {Cloud Computing}}{10}{section.2.4}
-\contentsline {section}{\numberline {2.5}Docker}{12}{section.2.5}
-\contentsline {chapter}{\numberline {3}\uppercase {Metodologi Penelitian}}{15}{chapter.3}
-\contentsline {section}{\numberline {3.1}Satu Persamaan}{15}{section.3.1}
-\contentsline {section}{\numberline {3.2}Lebih dari Satu Persamaan}{15}{section.3.2}
-\contentsline {chapter}{\numberline {4}\uppercase {Hasil Penelitian dan Analisis}}{17}{chapter.4}
-\contentsline {section}{\numberline {4.1}thesis.tex}{17}{section.4.1}
-\contentsline {section}{\numberline {4.2}laporan\_setting.tex}{17}{section.4.2}
-\contentsline {section}{\numberline {4.3}istilah.tex}{17}{section.4.3}
-\contentsline {section}{\numberline {4.4}hype.indonesia.tex}{17}{section.4.4}
-\contentsline {section}{\numberline {4.5}pustaka.tex}{18}{section.4.5}
-\contentsline {section}{\numberline {4.6}bab[1 - 6].tex}{18}{section.4.6}
-\contentsline {chapter}{\numberline {5}\uppercase {Perintah dalam uithesis.sty}}{19}{chapter.5}
-\contentsline {section}{\numberline {5.1}Mengubah Tampilan Teks}{19}{section.5.1}
-\contentsline {section}{\numberline {5.2}Memberikan Catatan}{19}{section.5.2}
-\contentsline {section}{\numberline {5.3}Menambah Isi Daftar Isi}{20}{section.5.3}
-\contentsline {section}{\numberline {5.4}Memasukan PDF}{20}{section.5.4}
-\contentsline {section}{\numberline {5.5}Membuat Perintah Baru}{24}{section.5.5}
-\contentsline {chapter}{\numberline {6}\uppercase {??}}{25}{chapter.6}
-\contentsline {chapter}{\numberline {7}\uppercase {Kesimpulan dan Saran}}{26}{chapter.7}
-\contentsline {section}{\numberline {7.1}Kesimpulan}{26}{section.7.1}
-\contentsline {section}{\numberline {7.2}Saran}{26}{section.7.2}
-\contentsline {chapter}{Daftar Referensi}{27}{section.7.2}
-\contentsline {chapter}{LAMPIRAN}{1}{section*.21}
-\contentsline {chapter}{Lampiran 1}{2}{section*.22}
+\contentsline {section}{\numberline {2.1}\textit {Drug dicovery}}{6}{section.2.1}
+\contentsline {section}{\numberline {2.2}\textit {Computational Drug discovery}}{7}{section.2.2}
+\contentsline {section}{\numberline {2.3}\textit {Molecular Docking}}{9}{section.2.3}
+\contentsline {section}{\numberline {2.4}\textit {Autodock dan Autodock Vina}}{11}{section.2.4}
+\contentsline {section}{\numberline {2.5}\textit {Kemampuan Komputasi}}{12}{section.2.5}
+\contentsline {section}{\numberline {2.6}\textit {Cloud Computing}}{12}{section.2.6}
+\contentsline {section}{\numberline {2.7}Virtualisasi}{14}{section.2.7}
+\contentsline {section}{\numberline {2.8}Virtual Machine}{15}{section.2.8}
+\contentsline {section}{\numberline {2.9}Docker}{16}{section.2.9}
+\contentsline {chapter}{\numberline {3}\uppercase {Metodologi Penelitian}}{19}{chapter.3}
+\contentsline {section}{\numberline {3.1}Tahapan Penelitian}{19}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Workflow Penelitian}{20}{subsection.3.1.1}
+\contentsline {section}{\numberline {3.2}Sistem Pendukung Penelitian}{21}{section.3.2}
+\contentsline {section}{\numberline {3.3}Data Penelitian}{22}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Pemilihan Data}{22}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Pemrosesan Data}{22}{subsection.3.3.2}
+\contentsline {section}{\numberline {3.4}Skenario Eksperimen Penelitian}{23}{section.3.4}
+\contentsline {section}{\numberline {3.5}Pengukuran Kinerja}{24}{section.3.5}
+\contentsline {chapter}{\numberline {4}\uppercase {Hasil Penelitian dan Analisis}}{25}{chapter.4}
+\contentsline {section}{\numberline {4.1}Hasil Penelitian}{25}{section.4.1}
+\contentsline {section}{\numberline {4.2}Analisis}{29}{section.4.2}
+\contentsline {chapter}{\numberline {5}\uppercase {Penutup}}{36}{chapter.5}
+\contentsline {section}{\numberline {5.1}Kesimpulan}{36}{section.5.1}
+\contentsline {section}{\numberline {5.2}Kendala}{37}{section.5.2}
+\contentsline {section}{\numberline {5.3}Saran}{37}{section.5.3}
+\contentsline {chapter}{Daftar Referensi}{38}{section.5.3}
+\contentsline {chapter}{LAMPIRAN}{i}{section*.40}
+\contentsline {chapter}{Lampiran A}{xv}{section*.41}
+\contentsline {chapter}{Lampiran B}{xvii}{section*.42}
+\contentsline {chapter}{Lampiran C}{xix}{section*.44}
+\contentsline {chapter}{Lampiran D}{xxiii}{section*.45}
